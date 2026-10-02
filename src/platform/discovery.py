@@ -1,7 +1,7 @@
 """Platform capability discovery boundary.
 
-This module defines the discovery contract without binding the core to hardware,
-firmware vendors, operating systems, or device identifiers.
+The core receives capability facts, not hardware identities. Hardware-specific
+adapters implement CapabilitySource outside this module.
 """
 from dataclasses import dataclass
 from typing import Protocol, Sequence
@@ -10,16 +10,16 @@ from .capability import Capability
 
 
 class CapabilitySource(Protocol):
-    """Source capable of observing platform capabilities."""
+    """Hardware-independent contract for one discovery pass."""
 
     def discover(self) -> Sequence[Capability]:
-        """Return a snapshot of observable capabilities."""
+        """Return observable platform capabilities."""
         ...
 
 
 @dataclass(frozen=True)
 class DiscoveryResult:
-    """Validated result of one discovery pass."""
+    """Validated immutable result of one discovery pass."""
 
     capabilities: tuple[Capability, ...]
 
@@ -27,24 +27,10 @@ class DiscoveryResult:
     def from_source(cls, source: CapabilitySource) -> "DiscoveryResult":
         capabilities = tuple(source.discover())
         names = [capability.name for capability in capabilities]
+
         if any(not name for name in names):
             raise ValueError("capability names must not be empty")
         if len(names) != len(set(names)):
             raise ValueError("capability names must be unique")
+
         return cls(capabilities)
-
-
-"""Reference in-memory capability source for platform tests and prototypes."""
-from dataclasses import dataclass
-
-from .capability import Capability
-
-
-@dataclass(frozen=True)
-class StaticCapabilitySource:
-    """Return a predefined capability snapshot without hardware access."""
-
-    capabilities: tuple[Capability, ...]
-
-    def discover(self) -> tuple[Capability, ...]:
-        return self.capabilities
