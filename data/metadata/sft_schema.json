@@ -1,0 +1,21 @@
+{
+  "format": "jsonl",
+  "record_schema": {
+    "messages": "array of objects with role and content",
+    "metadata": {
+      "source_id": "string",
+      "topic": "string",
+      "version": "string",
+      "record_type": "string"
+    }
+  },
+  "required_metadata": ["source_id","topic","version","record_type"],
+  "allowed_roles": ["user","assistant"],
+  "accessibility_rules": [
+    "Use short paragraphs.",
+    "Prefer explicit terminology over unexplained abbreviations.",
+    "Do not rely on visual layout, color, or diagrams.",
+    "Describe sequences in their logical order.",
+    "Avoid copying source text."
+  ]
+}
