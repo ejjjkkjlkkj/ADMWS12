@@ -1,0 +1,21 @@
+{
+  "layer": "chain",
+  "name": "ADMWS12 deterministic chain layer",
+  "build_rules": {
+    "depends_on": ["tool"],
+    "external_implementation_dependency": false,
+    "external_binary_dependency": false,
+    "identity": "sha256(canonical(name, version, tool_ids, policy))",
+    "immutable": true,
+    "ordered_execution": true,
+    "provenance_required": true
+  },
+  "design_targets": [
+    "explicit ordered composition",
+    "content-addressed identity",
+    "deterministic composition",
+    "auditable tool dependencies",
+    "tamper detection"
+  ],
+  "next_layers": ["subsystem", "system", "model"]
+}
