@@ -1,0 +1,22 @@
+{
+  "layer": "tool",
+  "name": "ADMWS12 project-owned tool layer",
+  "build_rules": {
+    "depends_on": ["component"],
+    "external_implementation_dependency": false,
+    "external_binary_dependency": false,
+    "identity": "sha256(canonical(name, version, component_ids, input_schema, output_schema, policy))",
+    "immutable": true,
+    "duplicate_components": false,
+    "provenance_required": true,
+    "deterministic_contract_required": true
+  },
+  "design_targets": [
+    "explicit input and output contracts",
+    "content-addressed identity",
+    "auditable dependencies",
+    "deterministic behavior where declared",
+    "no hidden external runtime dependency"
+  ],
+  "next_layers": ["chain", "subsystem", "system", "model"]
+}
