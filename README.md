@@ -58,3 +58,15 @@ La validation automatique est définie dans `.github/workflows/validate.yml`.
 ## Licence
 
 À définir.
+## Chaîne de fabrication
+
+Le dépôt est organisé comme une usine logicielle : chaque étape transforme un artefact contrôlé en un nouvel artefact sans altérer les sources précédentes.
+
+- conception et métadonnées : `data/metadata/` et `configs/`
+- données SFT : `data/sft/`
+- contrôles : `scripts/validate_json.py` et `scripts/dataset_quality.py`
+- tests : `tests/`
+- documentation de fabrication : `docs/factory/`
+- CI : `.github/workflows/validate.yml`
+
+La séparation train/validation/test reste désactivée tant que le corpus n'est pas suffisamment grand. Aucun découpage artificiel ne doit donner l'impression qu'un benchmark est représentatif avant d'avoir assez de données.
