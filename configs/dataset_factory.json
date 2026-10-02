@@ -1,0 +1,25 @@
+{
+  "dataset_id": "admws12-uefi-foundation-v1",
+  "input_glob": "data/sft/*.jsonl",
+  "quality_script": "scripts/dataset_quality.py",
+  "validation_script": "scripts/validate_json.py",
+  "normalization": {
+    "encoding": "utf-8",
+    "newline": "lf",
+    "strip_outer_whitespace": true
+  },
+  "deduplication": {
+    "algorithm": "sha256",
+    "scope": [
+      "user_message",
+      "assistant_response"
+    ],
+    "reject_exact_duplicates": true
+  },
+  "split": {
+    "enabled": false,
+    "train": 0.8,
+    "validation": 0.1,
+    "test": 0.1
+  }
+}
