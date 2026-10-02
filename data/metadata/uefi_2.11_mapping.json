@@ -1,0 +1,41 @@
+{
+  "dataset_id": "admws12-uefi",
+  "target": "screen-reader-friendly technical SFT",
+  "sources": [
+    "uefi-specification-2.11",
+    "uefi-platform-initialization-1.10"
+  ],
+  "record_types": [
+    "concept_explanation",
+    "protocol_summary",
+    "command_or_api_explanation",
+    "troubleshooting",
+    "accessibility_rewrite",
+    "security_note",
+    "version_difference"
+  ],
+  "quality_rules": [
+    "Do not invent protocol names, GUIDs, structures, status codes, or version changes.",
+    "Keep source attribution and version metadata with every derived record.",
+    "Do not copy long passages from the source specifications.",
+    "Prefer short, independently authored explanations and examples.",
+    "Validate JSONL before it enters SFT.",
+    "Keep raw source material outside the repository unless redistribution rights are established."
+  ],
+  "initial_topics": [
+    "UEFI boot flow",
+    "EFI system partition",
+    "boot manager and boot options",
+    "Boot Services versus Runtime Services",
+    "handles and protocols",
+    "device paths",
+    "Secure Boot",
+    "HTTP Boot",
+    "UEFI variables",
+    "memory map and memory attributes",
+    "PEI/DXE relationship",
+    "firmware volumes",
+    "firmware file system",
+    "accessibility of UEFI setup and boot workflows"
+  ]
+}
