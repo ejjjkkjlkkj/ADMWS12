@@ -1,0 +1,30 @@
+{
+  "id": "uefi-specification-2.11",
+  "title": "UEFI Specification",
+  "version": "2.11",
+  "release_date": "2024-12-16",
+  "publisher": "UEFI Forum",
+  "source_type": "official_specification",
+  "canonical_page": "https://uefi.org/specifications",
+  "document_page": "https://uefi.org/node/5130",
+  "pdf": "https://uefi.org/sites/default/files/resources/UEFI_Spec_Final_2.11.pdf",
+  "repository_policy": {
+    "raw_document": "do_not_commit",
+    "derived_notes": "allowed_only_if_independently authored_and_appropriately_licensed",
+    "metadata": "allowed"
+  },
+  "priority_topics": [
+    "boot_services",
+    "runtime_services",
+    "protocols_and_handles",
+    "device_paths",
+    "boot_manager",
+    "secure_boot_and_signatures",
+    "http_boot",
+    "memory_attributes",
+    "error_records",
+    "cryptography",
+    "architecture_support"
+  ],
+  "notes": "ADMWS12 stores source metadata and mappings, not a copy of the specification."
+}
