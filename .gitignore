@@ -1,0 +1,41 @@
+# Environnements
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials/
+
+# Modèles et checkpoints
+models/
+checkpoints/
+*.safetensors
+*.gguf
+*.bin
+*.pt
+*.pth
+
+# Dataset généré
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Système
+Thumbs.db
+.DS_Store
