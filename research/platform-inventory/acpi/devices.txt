@@ -1,0 +1,1693 @@
+
+Class                       : System
+FriendlyName                : Haut-parleur système
+InstanceId                  : ACPI\PNP0800\4&235D84A0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Haut-parleur système
+Description                 : Haut-parleur système
+InstallDate                 : 
+Name                        : Haut-parleur système
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0800\4&235D84A0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0800\4&235D84A0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0800, ACPI\PNP0800, *PNP0800}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Battery
+FriendlyName                : Batterie à méthode de contrôle compatible ACPI Microsoft
+InstanceId                  : ACPI\PNP0C0A\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Batterie à méthode de contrôle compatible ACPI Microsoft
+Description                 : Batterie à méthode de contrôle compatible ACPI Microsoft
+InstallDate                 : 
+Name                        : Batterie à méthode de contrôle compatible ACPI Microsoft
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C0A\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C0A\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {72631e54-78a4-11d0-bcf7-00aa00b7b32a}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C0A, ACPI\PNP0C0A, *PNP0C0A}
+Manufacturer                : Microsoft
+PNPClass                    : Battery
+Present                     : True
+Service                     : CmBatt
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ASUS System Control Interface v3
+InstanceId                  : ACPI\ASUS2018\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ASUS System Control Interface v3
+Description                 : ASUS System Control Interface v3
+InstallDate                 : 
+Name                        : ASUS System Control Interface v3
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ASUS2018\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ASUS2018\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_ASUS&DEV_2018, ACPI\ASUS2018, *ASUS2018}
+Manufacturer                : ASUS
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Compteur d'événement de haute précision
+InstanceId                  : ACPI\PNP0103\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Compteur d'événement de haute précision
+Description                 : Compteur d'événement de haute précision
+InstallDate                 : 
+Name                        : Compteur d'événement de haute précision
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0103\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0103\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0103, ACPI\PNP0103, *PNP0103}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Contrôleur embarqué compatible ACPI Microsoft
+InstanceId                  : ACPI\PNP0C09\4&235D84A0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur embarqué compatible ACPI Microsoft
+Description                 : Contrôleur embarqué compatible ACPI Microsoft
+InstallDate                 : 
+Name                        : Contrôleur embarqué compatible ACPI Microsoft
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C09\4&235D84A0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C09\4&235D84A0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C09, ACPI\PNP0C09, *PNP0C09}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Zone thermique ACPI
+InstanceId                  : ACPI\THERMALZONE\THRM
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Zone thermique ACPI
+Description                 : Zone thermique ACPI
+InstallDate                 : 
+Name                        : Zone thermique ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\THERMALZONE\THRM
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\THERMALZONE\THRM
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\ThermalZone, *ThermalZone}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Horloge système
+InstanceId                  : ACPI\PNP0100\4&235D84A0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Horloge système
+Description                 : Horloge système
+InstallDate                 : 
+Name                        : Horloge système
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0100\4&235D84A0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0100\4&235D84A0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0100, ACPI\PNP0100, *PNP0100}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : AMD GPIO Controller
+InstanceId                  : ACPI\AMDI0030\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD GPIO Controller
+Description                 : AMD GPIO Controller
+InstallDate                 : 
+Name                        : AMD GPIO Controller
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AMDI0030\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AMDI0030\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {ACPI\AMDI0030, AMDI0030}
+HardwareID                  : {ACPI\VEN_AMDI&DEV_0030, ACPI\AMDI0030, *AMDI0030}
+Manufacturer                : Advanced Micro Devices, Inc
+PNPClass                    : System
+Present                     : True
+Service                     : amdgpio2
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Périphérique conteneur de processeurs ACPI
+InstanceId                  : ACPI\ACPI0010\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Périphérique conteneur de processeurs ACPI
+Description                 : Périphérique conteneur de processeurs ACPI
+InstallDate                 : 
+Name                        : Périphérique conteneur de processeurs ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ACPI0010\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ACPI0010\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {*PNP0A05}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0010, ACPI\ACPI0010, *ACPI0010}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Keyboard
+FriendlyName                : Clavier PS/2 PC/AT étendu (101/102 touches)
+InstanceId                  : ACPI\ATK3001\4&235D84A0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Clavier PS/2 PC/AT étendu (101/102 touches)
+Description                 : Clavier PS/2 PC/AT étendu (101/102 touches)
+InstallDate                 : 
+Name                        : Clavier PS/2 PC/AT étendu (101/102 touches)
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ATK3001\4&235D84A0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ATK3001\4&235D84A0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e96b-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {*PNP030B}
+HardwareID                  : {ACPI\VEN_ATK&DEV_3001, ACPI\ATK3001, *ATK3001}
+Manufacturer                : (Claviers standard)
+PNPClass                    : Keyboard
+Present                     : True
+Service                     : i8042prt
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Battery
+FriendlyName                : Adaptateur secteur Microsoft
+InstanceId                  : ACPI\ACPI0003\5&C9A9803&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Adaptateur secteur Microsoft
+Description                 : Adaptateur secteur Microsoft
+InstallDate                 : 
+Name                        : Adaptateur secteur Microsoft
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ACPI0003\5&C9A9803&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ACPI0003\5&C9A9803&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {72631e54-78a4-11d0-bcf7-00aa00b7b32a}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0003, ACPI\ACPI0003, *ACPI0003}
+Manufacturer                : Microsoft
+PNPClass                    : Battery
+Present                     : True
+Service                     : CmBatt
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Couvercle ACPI
+InstanceId                  : ACPI\PNP0C0D\5&C9A9803&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Couvercle ACPI
+Description                 : Couvercle ACPI
+InstallDate                 : 
+Name                        : Couvercle ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C0D\5&C9A9803&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C0D\5&C9A9803&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C0D, ACPI\PNP0C0D, *PNP0C0D}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\10
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\10
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\10
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Carte système
+InstanceId                  : ACPI\PNP0C01\C8
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Carte système
+Description                 : Carte système
+InstallDate                 : 
+Name                        : Carte système
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C01\C8
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C01\C8
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C01, ACPI\PNP0C01, *PNP0C01}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Computer
+FriendlyName                : PC ACPI avec processeur x64
+InstanceId                  : ROOT\ACPI_HAL\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : PC ACPI avec processeur x64
+Description                 : PC ACPI avec processeur x64
+InstallDate                 : 
+Name                        : PC ACPI avec processeur x64
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\ACPI_HAL\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\ACPI_HAL\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e966-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {DETECTEDInternal\ACPI_HAL, DETECTED\ACPI_HAL}
+HardwareID                  : {acpiapic}
+Manufacturer                : (Ordinateurs standard)
+PNPClass                    : Computer
+Present                     : True
+Service                     : \Driver\ACPI_HAL
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Interface de gestion Microsoft Windows pour ACPI
+InstanceId                  : ACPI\PNP0C14\AOD
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Interface de gestion Microsoft Windows pour ACPI
+Description                 : Interface de gestion Microsoft Windows pour ACPI
+InstallDate                 : 
+Name                        : Interface de gestion Microsoft Windows pour ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C14\AOD
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C14\AOD
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C14, ACPI\PNP0C14, *PNP0C14}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : WmiAcpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Interface de gestion Microsoft Windows pour ACPI
+InstanceId                  : ACPI\PNP0C14\ATK
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Interface de gestion Microsoft Windows pour ACPI
+Description                 : Interface de gestion Microsoft Windows pour ACPI
+InstallDate                 : 
+Name                        : Interface de gestion Microsoft Windows pour ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C14\ATK
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C14\ATK
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C14, ACPI\PNP0C14, *PNP0C14}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : WmiAcpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Racine complexe PCI Express
+InstanceId                  : ACPI\PNP0A08\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Racine complexe PCI Express
+Description                 : Racine complexe PCI Express
+InstallDate                 : 
+Name                        : Racine complexe PCI Express
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0A08\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0A08\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {*PNP0A03}
+HardwareID                  : {ACPI\VEN_PNP&DEV_0A08, ACPI\PNP0A08, *PNP0A08}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Système compatible ACPI Microsoft
+InstanceId                  : ACPI_HAL\PNP0C08\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Système compatible ACPI Microsoft
+Description                 : Système compatible ACPI Microsoft
+InstallDate                 : 
+Name                        : Système compatible ACPI Microsoft
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI_HAL\PNP0C08\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI_HAL\PNP0C08\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI_HAL\PNP0C08, *PNP0C08}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : ACPI
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Horloge système CMOS/en temps réel
+InstanceId                  : ACPI\PNP0B00\4&235D84A0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Horloge système CMOS/en temps réel
+Description                 : Horloge système CMOS/en temps réel
+InstallDate                 : 
+Name                        : Horloge système CMOS/en temps réel
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0B00\4&235D84A0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0B00\4&235D84A0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0B00, ACPI\PNP0B00, *PNP0B00}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Système compatible UEFI Microsoft
+InstanceId                  : ACPI_HAL\UEFI\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Système compatible UEFI Microsoft
+Description                 : Système compatible UEFI Microsoft
+InstallDate                 : 
+Name                        : Système compatible UEFI Microsoft
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI_HAL\UEFI\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI_HAL\UEFI\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI_HAL\UEFI}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : UEFI
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Contrôleur d'interruptions programmable
+InstanceId                  : ACPI\PNP0000\4&235D84A0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur d'interruptions programmable
+Description                 : Contrôleur d'interruptions programmable
+InstallDate                 : 
+Name                        : Contrôleur d'interruptions programmable
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0000\4&235D84A0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0000\4&235D84A0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0000, ACPI\PNP0000, *PNP0000}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : SecurityDevices
+FriendlyName                : Module de plateforme sécurisée 2.0
+InstanceId                  : ACPI\MSFT0101\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Module de plateforme sécurisée 2.0
+Description                 : Module de plateforme sécurisée 2.0
+InstallDate                 : 
+Name                        : Module de plateforme sécurisée 2.0
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\MSFT0101\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\MSFT0101\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {d94ee5d8-d189-4994-83d2-f68d7d41b0e6}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_MSFT&DEV_0101, ACPI\MSFT0101, *MSFT0101}
+Manufacturer                : (standard)
+PNPClass                    : SecurityDevices
+Present                     : True
+Service                     : TPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : AMD Micro PEP Device
+InstanceId                  : ACPI\AMDI0005\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Micro PEP Device
+Description                 : AMD Micro PEP Device
+InstallDate                 : 
+Name                        : AMD Micro PEP Device
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AMDI0005\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AMDI0005\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {*PNP0D80}
+HardwareID                  : {ACPI\VEN_AMDI&DEV_0005, ACPI\AMDI0005, *AMDI0005}
+Manufacturer                : Advanced Micro Devices, Inc.
+PNPClass                    : System
+Present                     : True
+Service                     : AmdMicroPEP
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Ressources de la carte mère
+InstanceId                  : ACPI\PNP0C02\15
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Ressources de la carte mère
+Description                 : Ressources de la carte mère
+InstallDate                 : 
+Name                        : Ressources de la carte mère
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\15
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\15
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Ressources de la carte mère
+InstanceId                  : ACPI\PNP0C02\90
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Ressources de la carte mère
+Description                 : Ressources de la carte mère
+InstallDate                 : 
+Name                        : Ressources de la carte mère
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\90
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\90
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Contrôleur d'accès direct à la mémoire
+InstanceId                  : ACPI\PNP0200\4&235D84A0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur d'accès direct à la mémoire
+Description                 : Contrôleur d'accès direct à la mémoire
+InstallDate                 : 
+Name                        : Contrôleur d'accès direct à la mémoire
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0200\4&235D84A0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0200\4&235D84A0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0200, ACPI\PNP0200, *PNP0200}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Bouton d'alimentation ACPI
+InstanceId                  : ACPI\PNP0C0C\AA
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Bouton d'alimentation ACPI
+Description                 : Bouton d'alimentation ACPI
+InstallDate                 : 
+Name                        : Bouton d'alimentation ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C0C\AA
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C0C\AA
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C0C, ACPI\PNP0C0C, *PNP0C0C}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\2
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\2
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\2
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\3
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\3
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\3
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\4
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\4
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\4
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\5
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\5
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\5
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\6
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\6
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\6
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\7
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\7
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\7
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\8
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\8
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\8
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\9
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\9
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\9
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\A
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\A
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\A
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\B
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\B
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\B
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\C
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\C
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\C
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\D
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\D
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\D
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\E
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\E
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\E
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Processor
+FriendlyName                : AMD Ryzen 7 5800H with Radeon Graphics         
+InstanceId                  : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\F
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Ryzen 7 5800H with Radeon Graphics         
+Description                 : Processeur AMD
+InstallDate                 : 
+Name                        : AMD Ryzen 7 5800H with Radeon Graphics         
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\F
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AUTHENTICAMD_-_AMD64_FAMILY_25_MODEL_80_-_AMD_RYZEN_7_5800H_WITH_RADEON_GRAPHICS_________\F
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+CompatibleID                : {ACPI\Processor}
+HardwareID                  : {ACPI\VEN_ACPI&DEV_0007, ACPI\AuthenticAMD_-_AMD64_Family_25_Model_80, *AuthenticAMD_-_AMD64_Family_25_Model_80, ACPI\AuthenticAMD_-_AMD64_Family_25…}
+Manufacturer                : Advanced Micro Devices
+PNPClass                    : Processor
+Present                     : True
+Service                     : AmdPPM
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : AMD I2C Controller
+InstanceId                  : ACPI\AMDI0010\3
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD I2C Controller
+Description                 : AMD I2C Controller
+InstallDate                 : 
+Name                        : AMD I2C Controller
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\AMDI0010\3
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\AMDI0010\3
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_AMDI&DEV_0010, ACPI\AMDI0010, *AMDI0010}
+Manufacturer                : Advanced Micro Devices, Inc.
+PNPClass                    : System
+Present                     : True
+Service                     : amdi2c
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : HIDClass
+FriendlyName                : Périphérique I2C HID
+InstanceId                  : ACPI\ASUE1211\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Périphérique I2C HID
+Description                 : Périphérique I2C HID
+InstallDate                 : 
+Name                        : Périphérique I2C HID
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ASUE1211\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ASUE1211\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+CompatibleID                : {ACPI\PNP0C50, PNP0C50}
+HardwareID                  : {ACPI\VEN_ASUE&DEV_1211, ACPI\ASUE1211, *ASUE1211}
+Manufacturer                : Microsoft
+PNPClass                    : HIDClass
+Present                     : True
+Service                     : hidi2c
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Ressources de la carte mère
+InstanceId                  : ACPI\PNP0C02\700
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Ressources de la carte mère
+Description                 : Ressources de la carte mère
+InstallDate                 : 
+Name                        : Ressources de la carte mère
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\700
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\700
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Ressources de la carte mère
+InstanceId                  : ACPI\PNP0C02\4&12C9051D&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Ressources de la carte mère
+Description                 : Ressources de la carte mère
+InstallDate                 : 
+Name                        : Ressources de la carte mère
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\4&12C9051D&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\4&12C9051D&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+

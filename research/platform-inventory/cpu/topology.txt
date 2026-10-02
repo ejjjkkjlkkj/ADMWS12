@@ -1,0 +1,12 @@
+
+Name                      : AMD Ryzen 7 5800H with Radeon Graphics         
+Manufacturer              : AuthenticAMD
+Architecture              : 9
+AddressWidth              : 64
+DataWidth                 : 64
+NumberOfCores             : 8
+NumberOfLogicalProcessors : 16
+MaxClockSpeed             : 3201
+L2CacheSize               : 4096
+L3CacheSize               : 16384
+

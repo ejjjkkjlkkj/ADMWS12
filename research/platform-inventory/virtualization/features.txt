@@ -1,0 +1,13 @@
+
+FeatureName                               State
+-----------                               -----
+VirtualMachinePlatform                  Enabled
+Microsoft-Windows-Subsystem-Linux       Enabled
+Microsoft-Hyper-V-All                   Enabled
+Microsoft-Hyper-V                       Enabled
+Microsoft-Hyper-V-Tools-All             Enabled
+Microsoft-Hyper-V-Management-PowerShell Enabled
+Microsoft-Hyper-V-Hypervisor            Enabled
+Microsoft-Hyper-V-Services              Enabled
+Microsoft-Hyper-V-Management-Clients    Enabled
+

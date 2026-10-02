@@ -1,0 +1,17 @@
+
+ComputerName          : DESKTOP-7DJUUFJ
+MountPoint            : C:
+EncryptionMethod      : None
+EncryptionMethodFlags : None
+AutoUnlockEnabled     : 
+AutoUnlockKeyStored   : 
+MetadataVersion       : 0
+VolumeStatus          : FullyDecrypted
+ProtectionStatus      : Off
+LockStatus            : Unlocked
+EncryptionPercentage  : 0
+WipePercentage        : 0
+VolumeType            : OperatingSystem
+CapacityGB            : 941,0674
+KeyProtector          : {}
+

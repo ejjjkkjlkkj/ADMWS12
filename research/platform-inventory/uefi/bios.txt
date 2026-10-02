@@ -1,0 +1,37 @@
+
+Status                         : OK
+Name                           : M1603QA.308
+Caption                        : M1603QA.308
+SMBIOSPresent                  : True
+Description                    : M1603QA.308
+InstallDate                    : 
+BuildNumber                    : 
+CodeSet                        : 
+IdentificationCode             : 
+LanguageEdition                : 
+Manufacturer                   : American Megatrends International, LLC.
+OtherTargetOS                  : 
+SerialNumber                   : N8N0CV08S086328
+SoftwareElementID              : M1603QA.308
+SoftwareElementState           : 3
+TargetOperatingSystem          : 0
+Version                        : _ASUS_ - 1072009
+PrimaryBIOS                    : True
+BiosCharacteristics            : {7, 11, 12, 15…}
+BIOSVersion                    : {_ASUS_ - 1072009, M1603QA.308, American Megatrends - 50013}
+CurrentLanguage                : en|US|iso8859-1
+EmbeddedControllerMajorVersion : 255
+EmbeddedControllerMinorVersion : 255
+InstallableLanguages           : 1
+ListOfLanguages                : {en|US|iso8859-1}
+ReleaseDate                    : 22/05/2023 02:00:00
+SMBIOSBIOSVersion              : M1603QA.308
+SMBIOSMajorVersion             : 3
+SMBIOSMinorVersion             : 3
+SystemBiosMajorVersion         : 5
+SystemBiosMinorVersion         : 19
+PSComputerName                 : 
+CimClass                       : root/cimv2 : Win32_BIOS
+CimInstanceProperties          : {Caption, Description, InstallDate, Name…}
+CimSystemProperties            : Microsoft.Management.Infrastructure.CimSystemProperties
+

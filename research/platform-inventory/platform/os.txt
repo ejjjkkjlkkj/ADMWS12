@@ -1,0 +1,70 @@
+
+Status                                    : OK
+Name                                      : Microsoft Windows 11 Entreprise|C:\WINDOWS|\Device\Harddisk0\Partition4
+FreePhysicalMemory                        : 31427152
+FreeSpaceInPagingFiles                    : 6018864
+FreeVirtualMemory                         : 35961432
+Caption                                   : Microsoft Windows 11 Entreprise
+Description                               : 
+InstallDate                               : 15/09/2026 19:08:56
+CreationClassName                         : Win32_OperatingSystem
+CSCreationClassName                       : Win32_ComputerSystem
+CSName                                    : DESKTOP-7DJUUFJ
+CurrentTimeZone                           : 120
+Distributed                               : False
+LastBootUpTime                            : 02/10/2026 07:40:33
+LocalDateTime                             : 02/10/2026 10:21:04
+MaxNumberOfProcesses                      : 4294967295
+MaxProcessMemorySize                      : 137438953344
+NumberOfLicensedUsers                     : 0
+NumberOfProcesses                         : 220
+NumberOfUsers                             : 1
+OSType                                    : 18
+OtherTypeDescription                      : 
+SizeStoredInPagingFiles                   : 6029312
+TotalSwapSpaceSize                        : 
+TotalVirtualMemorySize                    : 47346880
+TotalVisibleMemorySize                    : 41317568
+Version                                   : 10.0.26300
+BootDevice                                : \Device\HarddiskVolume2
+BuildNumber                               : 26300
+BuildType                                 : Multiprocessor Free
+CodeSet                                   : 1252
+CountryCode                               : 33
+CSDVersion                                : 
+DataExecutionPrevention_32BitApplications : True
+DataExecutionPrevention_Available         : True
+DataExecutionPrevention_Drivers           : True
+DataExecutionPrevention_SupportPolicy     : 2
+Debug                                     : False
+EncryptionLevel                           : 256
+ForegroundApplicationBoost                : 2
+LargeSystemCache                          : 
+Locale                                    : 040c
+Manufacturer                              : Microsoft Corporation
+MUILanguages                              : {fr-FR, en-US}
+OperatingSystemSKU                        : 4
+Organization                              : 
+OSArchitecture                            : 64 bits
+OSLanguage                                : 1036
+OSProductSuite                            : 256
+PAEEnabled                                : 
+PlusProductID                             : 
+PlusVersionNumber                         : 
+PortableOperatingSystem                   : False
+Primary                                   : True
+ProductType                               : 1
+RegisteredUser                            : Utilisateur Windows
+SerialNumber                              : 00328-82876-15342-AAOEM
+ServicePackMajorVersion                   : 0
+ServicePackMinorVersion                   : 0
+SuiteMask                                 : 272
+SystemDevice                              : \Device\HarddiskVolume4
+SystemDirectory                           : C:\WINDOWS\system32
+SystemDrive                               : C:
+WindowsDirectory                          : C:\WINDOWS
+PSComputerName                            : 
+CimClass                                  : root/cimv2 : Win32_OperatingSystem
+CimInstanceProperties                     : {Caption, Description, InstallDate, Name…}
+CimSystemProperties                       : Microsoft.Management.Infrastructure.CimSystemProperties
+

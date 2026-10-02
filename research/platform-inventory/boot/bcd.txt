@@ -1,0 +1,226 @@
+
+Gestionnaire de démarrage du microprogramme
+-------------------------------------------
+identificateur          {fwbootmgr}
+displayorder            {bootmgr}
+                        {9a726aa2-bb05-11f1-9f28-806e6f6e6963}
+                        {9a726aa3-bb05-11f1-9f28-806e6f6e6963}
+                        {9a726aa4-bb05-11f1-9f28-806e6f6e6963}
+timeout                 1
+
+Gestionnaire de démarrage Windows
+---------------------------------
+identificateur          {bootmgr}
+device                  partition=\Device\HarddiskVolume2
+path                    \EFI\MICROSOFT\BOOT\BOOTMGFW.EFI
+description             Windows Boot Manager
+locale                  fr-FR
+inherit                 {globalsettings}
+default                 {current}
+resumeobject            {9c56b359-a2e7-11f1-92d4-f1e535dc3525}
+displayorder            {current}
+toolsdisplayorder       {memdiag}
+timeout                 30
+
+Application logicielle (101fffff)
+--------------------------------
+identificateur          {9a726aa2-bb05-11f1-9f28-806e6f6e6963}
+description             UEFI:CD/DVD Drive
+
+Application logicielle (101fffff)
+--------------------------------
+identificateur          {9a726aa3-bb05-11f1-9f28-806e6f6e6963}
+description             UEFI:Removable Device
+
+Application logicielle (101fffff)
+--------------------------------
+identificateur          {9a726aa4-bb05-11f1-9f28-806e6f6e6963}
+description             UEFI:Network Device
+
+Installation de Windows
+-----------------------
+identificateur          {7254a080-1510-4e85-ac0f-e7fb3d444736}
+device                  ramdisk=[C:]\$WINDOWS.~BT\Sources\SafeOS\winre.wim,{9c56b35b-a2e7-11f1-92d4-f1e535dc3525}
+bootstatdevice          partition=C:
+custom:11000083         partition=C:
+path                    \windows\system32\winload.efi
+description             Windows Rollback
+locale                  fr-FR
+bootstatfilepath        \$WINDOWS.~BT\Sources\SafeOS\bootstat.dat
+inherit                 {bootloadersettings}
+restartonfailure        Yes
+osdevice                ramdisk=[C:]\$WINDOWS.~BT\Sources\SafeOS\winre.wim,{9c56b35b-a2e7-11f1-92d4-f1e535dc3525}
+custom:21000152         partition=C:
+systemroot              \windows
+nx                      OptIn
+bootmenupolicy          Standard
+winpe                   Yes
+
+Chargeur de démarrage Windows
+-----------------------------
+identificateur          {9c56b356-a2e7-11f1-92d4-f1e535dc3525}
+device                  partition=C:
+path                    \Windows\system32\winload.efi
+description             Windows 11
+locale                  fr-FR
+inherit                 {bootloadersettings}
+recoverysequence        {9c56b357-a2e7-11f1-92d4-f1e535dc3525}
+displaymessageoverride  Recovery
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+osdevice                partition=C:
+systemroot              \Windows
+resumeobject            {9c56b355-a2e7-11f1-92d4-f1e535dc3525}
+nx                      OptIn
+bootmenupolicy          Standard
+hypervisorlaunchtype    Auto
+
+Chargeur de démarrage Windows
+-----------------------------
+identificateur          {9c56b357-a2e7-11f1-92d4-f1e535dc3525}
+device                  ramdisk=[unknown]\Recovery\WindowsRE\Winre.wim,{9c56b358-a2e7-11f1-92d4-f1e535dc3525}
+path                    \windows\system32\winload.efi
+description             Windows Recovery Environment
+locale                  fr-fr
+inherit                 {bootloadersettings}
+displaymessage          Recovery
+osdevice                ramdisk=[unknown]\Recovery\WindowsRE\Winre.wim,{9c56b358-a2e7-11f1-92d4-f1e535dc3525}
+systemroot              \windows
+nx                      OptIn
+bootmenupolicy          Standard
+winpe                   Yes
+
+Chargeur de démarrage Windows
+-----------------------------
+identificateur          {current}
+device                  partition=C:
+path                    \WINDOWS\system32\winload.efi
+description             Windows 11
+locale                  fr-FR
+inherit                 {bootloadersettings}
+recoverysequence        {9c56b35c-a2e7-11f1-92d4-f1e535dc3525}
+displaymessageoverride  Recovery
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+osdevice                partition=C:
+systemroot              \WINDOWS
+resumeobject            {9c56b359-a2e7-11f1-92d4-f1e535dc3525}
+nx                      OptIn
+bootmenupolicy          Standard
+hypervisorlaunchtype    Auto
+
+Chargeur de démarrage Windows
+-----------------------------
+identificateur          {9c56b35c-a2e7-11f1-92d4-f1e535dc3525}
+device                  ramdisk=[\Device\HarddiskVolume5]\Recovery\WindowsRE\Winre.wim,{9c56b35d-a2e7-11f1-92d4-f1e535dc3525}
+path                    \windows\system32\winload.efi
+description             Windows Recovery Environment
+locale                  fr-FR
+inherit                 {bootloadersettings}
+displaymessage          Recovery
+osdevice                ramdisk=[\Device\HarddiskVolume5]\Recovery\WindowsRE\Winre.wim,{9c56b35d-a2e7-11f1-92d4-f1e535dc3525}
+systemroot              \windows
+nx                      OptIn
+bootmenupolicy          Standard
+winpe                   Yes
+
+Reprendre à partir de la mise en veille prolongée
+-------------------------------------------------
+identificateur          {9c56b355-a2e7-11f1-92d4-f1e535dc3525}
+device                  partition=C:
+path                    \Windows\system32\winresume.efi
+description             Windows Resume Application
+locale                  fr-FR
+inherit                 {resumeloadersettings}
+recoverysequence        {9c56b357-a2e7-11f1-92d4-f1e535dc3525}
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+filedevice              partition=C:
+custom:21000026         partition=C:
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+debugoptionenabled      No
+
+Reprendre à partir de la mise en veille prolongée
+-------------------------------------------------
+identificateur          {9c56b359-a2e7-11f1-92d4-f1e535dc3525}
+device                  partition=C:
+path                    \WINDOWS\system32\winresume.efi
+description             Windows Resume Application
+locale                  fr-FR
+inherit                 {resumeloadersettings}
+recoverysequence        {9c56b35c-a2e7-11f1-92d4-f1e535dc3525}
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+filedevice              partition=C:
+custom:21000026         partition=C:
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+debugoptionenabled      No
+
+Testeur de mémoire Windows
+--------------------------
+identificateur          {memdiag}
+device                  partition=\Device\HarddiskVolume2
+path                    \EFI\Microsoft\Boot\memtest.efi
+description             Diagnostics mémoire Windows
+locale                  fr-FR
+inherit                 {globalsettings}
+badmemoryaccess         Yes
+
+Paramètres EMS
+--------------
+identificateur          {emssettings}
+bootems                 No
+
+Paramètres du débogueur
+-----------------------
+identificateur          {dbgsettings}
+debugtype               Local
+
+Erreurs de mémoire RAM
+----------------------
+identificateur          {badmemory}
+
+Paramètres globaux
+------------------
+identificateur          {globalsettings}
+inherit                 {dbgsettings}
+                        {emssettings}
+                        {badmemory}
+
+Paramètres du chargeur de démarrage
+-----------------------------------
+identificateur          {bootloadersettings}
+inherit                 {globalsettings}
+                        {hypervisorsettings}
+
+Paramètres de l'hyperviseur
+-------------------
+identificateur          {hypervisorsettings}
+hypervisordebugtype     Serial
+hypervisordebugport     1
+hypervisorbaudrate      115200
+
+Paramètres du chargeur de reprise
+---------------------------------
+identificateur          {resumeloadersettings}
+inherit                 {globalsettings}
+
+Options de périphérique
+-----------------------
+identificateur          {9c56b35b-a2e7-11f1-92d4-f1e535dc3525}
+description             Windows Setup
+ramdisksdidevice        partition=C:
+ramdisksdipath          \$WINDOWS.~BT\Sources\SafeOS\boot.sdi
+
+Options de périphérique
+-----------------------
+identificateur          {9c56b35d-a2e7-11f1-92d4-f1e535dc3525}
+description             Windows Recovery
+ramdisksdidevice        partition=\Device\HarddiskVolume5
+ramdisksdipath          \Recovery\WindowsRE\boot.sdi

@@ -1,0 +1,63 @@
+
+Availability                            : 3
+CpuStatus                               : 1
+CurrentVoltage                          : 12
+DeviceID                                : CPU0
+ErrorCleared                            : 
+ErrorDescription                        : 
+LastErrorCode                           : 
+LoadPercentage                          : 15
+Status                                  : OK
+StatusInfo                              : 3
+AddressWidth                            : 64
+DataWidth                               : 64
+ExtClock                                : 100
+L2CacheSize                             : 4096
+L2CacheSpeed                            : 
+MaxClockSpeed                           : 3201
+PowerManagementSupported                : False
+ProcessorType                           : 3
+Revision                                : 20480
+SocketDesignation                       : FP6
+Version                                 : Modèle 0, niveau 0
+VoltageCaps                             : 
+Caption                                 : AMD64 Family 25 Model 80 Stepping 0
+Description                             : AMD64 Family 25 Model 80 Stepping 0
+InstallDate                             : 
+Name                                    : AMD Ryzen 7 5800H with Radeon Graphics         
+ConfigManagerErrorCode                  : 
+ConfigManagerUserConfig                 : 
+CreationClassName                       : Win32_Processor
+PNPDeviceID                             : 
+PowerManagementCapabilities             : 
+SystemCreationClassName                 : Win32_ComputerSystem
+SystemName                              : DESKTOP-7DJUUFJ
+CurrentClockSpeed                       : 2555
+Family                                  : 107
+OtherFamilyDescription                  : 
+Role                                    : CPU
+Stepping                                : 0
+UniqueId                                : 
+UpgradeMethod                           : 6
+Architecture                            : 9
+AssetTag                                : Unknown
+Characteristics                         : 252
+L3CacheSize                             : 16384
+L3CacheSpeed                            : 0
+Level                                   : 25
+Manufacturer                            : AuthenticAMD
+NumberOfCores                           : 8
+NumberOfEnabledCore                     : 8
+NumberOfLogicalProcessors               : 16
+PartNumber                              : Unknown
+ProcessorId                             : 178BFBFF00A50F00
+SecondLevelAddressTranslationExtensions : False
+SerialNumber                            : Unknown
+ThreadCount                             : 16
+VirtualizationFirmwareEnabled           : True
+VMMonitorModeExtensions                 : False
+PSComputerName                          : 
+CimClass                                : root/cimv2 : Win32_Processor
+CimInstanceProperties                   : {Caption, Description, InstallDate, Name…}
+CimSystemProperties                     : Microsoft.Management.Infrastructure.CimSystemProperties
+

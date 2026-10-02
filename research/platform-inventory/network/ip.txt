@@ -1,0 +1,441 @@
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet15
+InterfaceIndex       : 10
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet15
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{283E73A2-134C-4CE0-A920-E800D4514D09}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = ";:55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = ";:55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.156.1, fe80::49e4:5202:785:df62%10}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::49e4:5202:785:df62%10}
+IPv4Address          : {192.168.156.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "10", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "10", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet17
+InterfaceIndex       : 18
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet17
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{6896C075-213B-4CE3-A263-A78FEE4A0247}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = ";B55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = ";B55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.140.1, fe80::f454:ef47:afeb:1b14%18}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::f454:ef47:afeb:1b14%18}
+IPv4Address          : {192.168.140.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "18", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "18", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet11
+InterfaceIndex       : 2
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet11
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{0467A040-510E-446B-81B8-AF73043F66C5}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.154.1, fe80::6d13:140b:1997:6a9f%2}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::6d13:140b:1997:6a9f%2}
+IPv4Address          : {192.168.154.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "2", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "2", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet1
+InterfaceIndex       : 20
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet1
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{714D30B6-54E4-4754-A284-0727B8A4728D}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?:55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?:55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.102.1, fe80::c62a:9209:a9c7:aca8%20}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::c62a:9209:a9c7:aca8%20}
+IPv4Address          : {192.168.102.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "20", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "20", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet14
+InterfaceIndex       : 21
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet14
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{7512401F-551C-463A-8C45-DE4233364CF9}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?;55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?;55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.19.1, fe80::d195:2e05:25e7:9bb5%21}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::d195:2e05:25e7:9bb5%21}
+IPv4Address          : {192.168.19.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "21", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "21", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet16
+InterfaceIndex       : 25
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet16
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{8DF773C7-A4AF-452C-85EB-C8D29C391A50}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "??55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "??55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.2.1, fe80::aa9b:878d:607a:d8ae%25}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::aa9b:878d:607a:d8ae%25}
+IPv4Address          : {192.168.2.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "25", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "25", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet3
+InterfaceIndex       : 26
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet3
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{9170C9A6-32AB-4EC0-9A22-A56CC61C9238}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?@55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?@55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.170.1, fe80::764f:f9b9:ccc2:171f%26}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::764f:f9b9:ccc2:171f%26}
+IPv4Address          : {192.168.170.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "26", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "26", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet2
+InterfaceIndex       : 30
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet2
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{B1F96307-DE16-444A-AF8C-EAD9812D2D35}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?:55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?:55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.48.1, fe80::58d9:2414:79cf:1644%30}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::58d9:2414:79cf:1644%30}
+IPv4Address          : {192.168.48.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "30", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "30", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet13
+InterfaceIndex       : 31
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet13
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{B5BBFAE6-E080-459F-BBB2-AC2F669D4A1B}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?;55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?;55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.239.1, fe80::24df:f03b:b2e2:779b%31}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::24df:f03b:b2e2:779b%31}
+IPv4Address          : {192.168.239.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "31", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "31", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet4
+InterfaceIndex       : 34
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet4
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{E0887703-1EDE-4705-933A-3A8A0273D8BA}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "??55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "??55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.115.1, fe80::cd4d:4ffb:a2ae:8bc3%34}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::cd4d:4ffb:a2ae:8bc3%34}
+IPv4Address          : {192.168.115.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "34", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "34", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet7
+InterfaceIndex       : 35
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet7
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{E5775C20-E78D-4301-836A-757D511E6DEC}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "??55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "??55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.237.1, fe80::3ddf:560a:c50:bb54%35}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::3ddf:560a:c50:bb54%35}
+IPv4Address          : {192.168.237.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "35", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "35", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet9
+InterfaceIndex       : 36
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet9
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{E9DA4C3E-5120-49C7-BECB-D32BAF2DF96C}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?@55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?@55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.42.1, fe80::3ea7:4e10:367f:43b8%36}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::3ea7:4e10:367f:43b8%36}
+IPv4Address          : {192.168.42.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "36", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "36", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet10
+InterfaceIndex       : 37
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet10
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{EA74AFAA-2184-4B10-BCAE-A4F447665127}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?A55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?A55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.70.1, fe80::810c:104c:ee65:ac76%37}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::810c:104c:ee65:ac76%37}
+IPv4Address          : {192.168.70.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "37", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "37", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet19
+InterfaceIndex       : 38
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet19
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{F86EE2DE-FAA2-4511-B17D-3A4020E37144}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?B55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?B55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.86.1, fe80::2c08:603e:13c0:eb3%38}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::2c08:603e:13c0:eb3%38}
+IPv4Address          : {192.168.86.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "38", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "38", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet6
+InterfaceIndex       : 4
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet6
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{091F16B9-E2B4-443C-9C1A-3445A6EF1661}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.95.1, fe80::79e4:9613:68f:c0d5%4}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::79e4:9613:68f:c0d5%4}
+IPv4Address          : {192.168.95.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "4", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "4", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : vEthernet (Default Switch)
+InterfaceIndex       : 40
+InterfaceDescription : Hyper-V Virtual Ethernet Adapter
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{8849E63B-ECA8-4C42-BA9A-3C0CC592242A}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?:55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?:55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {172.31.176.1, fe80::9a78:3091:7a48:12a1%40}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::9a78:3091:7a48:12a1%40}
+IPv4Address          : {172.31.176.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "40", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "40", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet5
+InterfaceIndex       : 5
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet5
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{0A7744A4-5B79-4573-B3E3-E11A0A803C12}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "?55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "?55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.139.1, fe80::44f4:8cee:13ff:652d%5}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::44f4:8cee:13ff:652d%5}
+IPv4Address          : {192.168.139.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "5", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "5", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet12
+InterfaceIndex       : 6
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet12
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{0DDB2395-EFFB-4D62-BF22-77EF75D9B4D8}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "@55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "@55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.147.1, fe80::6fb0:ab64:fe96:1d0c%6}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::6fb0:ab64:fe96:1d0c%6}
+IPv4Address          : {192.168.147.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "6", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "6", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet18
+InterfaceIndex       : 8
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet18
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{11E29079-9CE0-48EA-89ED-092A25DFAB5B}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "B55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "B55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.246.1, fe80::cfdd:2a89:5f6d%8}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::cfdd:2a89:5f6d%8}
+IPv4Address          : {192.168.246.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "8", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "8", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : VMware Network Adapter VMnet8
+InterfaceIndex       : 9
+InterfaceDescription : VMware Virtual Ethernet Adapter for VMnet8
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{1561A6B1-1A8D-4B1F-9CDB-B9AB5302B694}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "C55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "C55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {192.168.32.1, fe80::a7b9:b72d:32a0:640b%9}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::a7b9:b72d:32a0:640b%9}
+IPv4Address          : {192.168.32.1}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "9", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "9", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : Wi-Fi
+InterfaceIndex       : 22
+InterfaceDescription : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{84585A01-29F0-4F25-A4EA-F88BD514448B}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "??55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "??55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : MSFT_NetConnectionProfile (InstanceID = "{84585A01-29F0-4F25-A4EA-F88BD514448B}")
+AllIPAddresses       : {192.168.1.16, 2a01:cb0c:6cf:5d00:ebb2:f8cc:8a18:d881, 2a01:cb0c:6cf:5d00:8870:bf69:86b8:c6ef, fe80::e820:b4b7:b402:20fe%22}
+IPv6Address          : {2a01:cb0c:6cf:5d00:ebb2:f8cc:8a18:d881}
+IPv6TemporaryAddress : {2a01:cb0c:6cf:5d00:8870:bf69:86b8:c6ef}
+IPv6LinkLocalAddress : {fe80::e820:b4b7:b402:20fe%22}
+IPv4Address          : {192.168.1.16}
+IPv6DefaultGateway   : {MSFT_NetRoute (InstanceID = "DD9:55??55poB:DDmkApD?lppDpolADAC?:55;")}
+IPv4DefaultGateway   : {MSFT_NetRoute (InstanceID = ":8:8:8:9:55??55;C?8;@B8;8;55;")}
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "22", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "22", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+
+ComputerName         : DESKTOP-7DJUUFJ
+InterfaceAlias       : Connexion réseau Bluetooth
+InterfaceIndex       : 24
+InterfaceDescription : Bluetooth Device (Personal Area Network)
+CompartmentId        : 1
+NetAdapter           : MSFT_NetAdapter (CreationClassName = "MSFT_NetAdapter", DeviceID = "{8995276F-B994-4715-AC15-2CCCDCFB3488}", SystemCreationClassName = "CIM_NetworkPort", SystemName = "DESKTOP-7DJUUFJ")
+NetCompartment       : MSFT_NetCompartment (InstanceID = ";55;")
+NetIPv6Interface     : MSFT_NetIPInterface (Name = "??55??55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetIPv4Interface     : MSFT_NetIPInterface (Name = "??55?55;", CreationClassName = "", SystemCreationClassName = "", SystemName = "")
+NetProfile           : 
+AllIPAddresses       : {169.254.41.0, fe80::4680:bec8:16d2:ed84%24}
+IPv6Address          : {}
+IPv6TemporaryAddress : {}
+IPv6LinkLocalAddress : {fe80::4680:bec8:16d2:ed84%24}
+IPv4Address          : {169.254.41.0}
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : {MSFT_DNSClientServerAddress (Name = "24", CreationClassName = "", SystemCreationClassName = "", SystemName = "23"), MSFT_DNSClientServerAddress (Name = "24", CreationClassName = "", SystemCreationClassName = "", SystemName = "2")}
+Detailed             : False
+

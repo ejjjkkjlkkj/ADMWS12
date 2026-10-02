@@ -1,0 +1,937 @@
+
+Class                       : USB
+FriendlyName                : Contrôleur hôte AMD USB 3.10 eXtensible - 1.10 (Microsoft)
+InstanceId                  : PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00\4&12C9051D&0&0341
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur hôte AMD USB 3.10 eXtensible - 1.10 (Microsoft)
+Description                 : Contrôleur d’hôte compatible xHCI USB
+InstallDate                 : 
+Name                        : Contrôleur hôte AMD USB 3.10 eXtensible - 1.10 (Microsoft)
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00\4&12C9051D&0&0341
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00\4&12C9051D&0&0341
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {36fc9e60-c465-11cf-8056-444553540000}
+CompatibleID                : {PCI\VEN_1022&DEV_1639&REV_00, PCI\VEN_1022&DEV_1639, PCI\VEN_1022&CC_0C0330, PCI\VEN_1022&CC_0C03…}
+HardwareID                  : {PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00, PCI\VEN_1022&DEV_1639&SUBSYS_201F1043, PCI\VEN_1022&DEV_1639&CC_0C0330, PCI\VEN_1022&DEV_1639&CC_0C03}
+Manufacturer                : Contrôleur d’hôte xHCI USB générique
+PNPClass                    : USB
+Present                     : True
+Service                     : USBXHCI
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : USB
+FriendlyName                : Contrôleur hôte AMD USB 3.10 eXtensible - 1.10 (Microsoft)
+InstanceId                  : PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00\4&12C9051D&0&0441
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur hôte AMD USB 3.10 eXtensible - 1.10 (Microsoft)
+Description                 : Contrôleur d’hôte compatible xHCI USB
+InstallDate                 : 
+Name                        : Contrôleur hôte AMD USB 3.10 eXtensible - 1.10 (Microsoft)
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00\4&12C9051D&0&0441
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00\4&12C9051D&0&0441
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {36fc9e60-c465-11cf-8056-444553540000}
+CompatibleID                : {PCI\VEN_1022&DEV_1639&REV_00, PCI\VEN_1022&DEV_1639, PCI\VEN_1022&CC_0C0330, PCI\VEN_1022&CC_0C03…}
+HardwareID                  : {PCI\VEN_1022&DEV_1639&SUBSYS_201F1043&REV_00, PCI\VEN_1022&DEV_1639&SUBSYS_201F1043, PCI\VEN_1022&DEV_1639&CC_0C0330, PCI\VEN_1022&DEV_1639&CC_0C03}
+Manufacturer                : Contrôleur d’hôte xHCI USB générique
+PNPClass                    : USB
+Present                     : True
+Service                     : USBXHCI
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_166B&SUBSYS_00000000&REV_00\3&11583659&0&C1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_166B&SUBSYS_00000000&REV_00\3&11583659&0&C1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_166B&SUBSYS_00000000&REV_00\3&11583659&0&C1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_166B&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_166B&SUBSYS_00000000, PCI\VEN_1022&DEV_166B&REV_00, PCI\VEN_1022&DEV_166B…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Contrôleur High Definition Audio
+InstanceId                  : PCI\VEN_1022&DEV_15E3&SUBSYS_17EF1043&REV_00\4&12C9051D&0&0641
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur High Definition Audio
+Description                 : Contrôleur High Definition Audio
+InstallDate                 : 
+Name                        : Contrôleur High Definition Audio
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_15E3&SUBSYS_17EF1043&REV_00\4&12C9051D&0&0641
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_15E3&SUBSYS_17EF1043&REV_00\4&12C9051D&0&0641
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_15E3&REV_00, PCI\VEN_1022&DEV_15E3, PCI\VEN_1022&CC_040300, PCI\VEN_1022&CC_0403…}
+HardwareID                  : {PCI\VEN_1022&DEV_15E3&SUBSYS_17EF1043&REV_00, PCI\VEN_1022&DEV_15E3&SUBSYS_17EF1043, PCI\VEN_1022&DEV_15E3&CC_040300, PCI\VEN_1022&DEV_15E3&CC_0403}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : HDAudBus
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Display
+FriendlyName                : AMD Radeon(TM) Graphics
+InstanceId                  : PCI\VEN_1002&DEV_1638&SUBSYS_12AD1043&REV_C5\4&12C9051D&0&0041
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Radeon(TM) Graphics
+Description                 : AMD Radeon(TM) Graphics
+InstallDate                 : 
+Name                        : AMD Radeon(TM) Graphics
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1002&DEV_1638&SUBSYS_12AD1043&REV_C5\4&12C9051D&0&0041
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1002&DEV_1638&SUBSYS_12AD1043&REV_C5\4&12C9051D&0&0041
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e968-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1002&DEV_1638&REV_C5, PCI\VEN_1002&DEV_1638, PCI\VEN_1002&CC_030000, PCI\VEN_1002&CC_0300…}
+HardwareID                  : {PCI\VEN_1002&DEV_1638&SUBSYS_12AD1043&REV_C5, PCI\VEN_1002&DEV_1638&SUBSYS_12AD1043, PCI\VEN_1002&DEV_1638&CC_030000, PCI\VEN_1002&DEV_1638&CC_0300}
+Manufacturer                : Advanced Micro Devices, Inc.
+PNPClass                    : Display
+Present                     : True
+Service                     : amdwddmg
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_1670&SUBSYS_00000000&REV_00\3&11583659&0&C6
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1670&SUBSYS_00000000&REV_00\3&11583659&0&C6
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1670&SUBSYS_00000000&REV_00\3&11583659&0&C6
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_1670&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_1670&SUBSYS_00000000, PCI\VEN_1022&DEV_1670&REV_00, PCI\VEN_1022&DEV_1670…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont ISA standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_790E&SUBSYS_10A31043&REV_51\3&11583659&0&A3
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont ISA standard PCI
+Description                 : Pont ISA standard PCI
+InstallDate                 : 
+Name                        : Pont ISA standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_790E&SUBSYS_10A31043&REV_51\3&11583659&0&A3
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_790E&SUBSYS_10A31043&REV_51\3&11583659&0&A3
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_790E&REV_51, PCI\VEN_1022&DEV_790E, PCI\VEN_1022&CC_060100, PCI\VEN_1022&CC_0601…}
+HardwareID                  : {PCI\VEN_1022&DEV_790E&SUBSYS_10A31043&REV_51, PCI\VEN_1022&DEV_790E&SUBSYS_10A31043, PCI\VEN_1022&DEV_790E&CC_060100, PCI\VEN_1022&DEV_790E&CC_0601}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : msisadrv
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_1630&SUBSYS_16301022&REV_00\3&11583659&0&00
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1630&SUBSYS_16301022&REV_00\3&11583659&0&00
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1630&SUBSYS_16301022&REV_00\3&11583659&0&00
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_1630&REV_00, PCI\VEN_1022&DEV_1630, PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600…}
+HardwareID                  : {PCI\VEN_1022&DEV_1630&SUBSYS_16301022&REV_00, PCI\VEN_1022&DEV_1630&SUBSYS_16301022, PCI\VEN_1022&DEV_1630&CC_060000, PCI\VEN_1022&DEV_1630&CC_0600}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_166D&SUBSYS_00000000&REV_00\3&11583659&0&C3
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_166D&SUBSYS_00000000&REV_00\3&11583659&0&C3
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_166D&SUBSYS_00000000&REV_00\3&11583659&0&C3
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_166D&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_166D&SUBSYS_00000000, PCI\VEN_1022&DEV_166D&REV_00, PCI\VEN_1022&DEV_166D…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : AMD SMBus
+InstanceId                  : PCI\VEN_1022&DEV_790B&SUBSYS_10A31043&REV_51\3&11583659&0&A0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD SMBus
+Description                 : AMD SMBus
+InstallDate                 : 
+Name                        : AMD SMBus
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_790B&SUBSYS_10A31043&REV_51\3&11583659&0&A0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_790B&SUBSYS_10A31043&REV_51\3&11583659&0&A0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_790B&REV_51, PCI\VEN_1022&DEV_790B, PCI\VEN_1022&CC_0C0500, PCI\VEN_1022&CC_0C05…}
+HardwareID                  : {PCI\VEN_1022&DEV_790B&SUBSYS_10A31043&REV_51, PCI\VEN_1022&DEV_790B&SUBSYS_10A31043, PCI\VEN_1022&DEV_790B&CC_0C0500, PCI\VEN_1022&DEV_790B&CC_0C05}
+Manufacturer                : Advanced Micro Devices, Inc
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : SecurityDevices
+FriendlyName                : AMD PSP 10.0 Device
+InstanceId                  : PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022&REV_00\4&12C9051D&0&0241
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD PSP 10.0 Device
+Description                 : AMD PSP 10.0 Device
+InstallDate                 : 
+Name                        : AMD PSP 10.0 Device
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022&REV_00\4&12C9051D&0&0241
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022&REV_00\4&12C9051D&0&0241
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {d94ee5d8-d189-4994-83d2-f68d7d41b0e6}
+CompatibleID                : {PCI\VEN_1022&DEV_15DF&REV_00, PCI\VEN_1022&DEV_15DF, PCI\VEN_1022&CC_108000, PCI\VEN_1022&CC_1080…}
+HardwareID                  : {PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022&REV_00, PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022, PCI\VEN_1022&DEV_15DF&CC_108000, PCI\VEN_1022&DEV_15DF&CC_1080}
+Manufacturer                : Advanced Micro Devices Inc.
+PNPClass                    : SecurityDevices
+Present                     : True
+Service                     : amdpsp
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Contrôleur High Definition Audio
+InstanceId                  : PCI\VEN_1002&DEV_1637&SUBSYS_16371002&REV_00\4&12C9051D&0&0141
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur High Definition Audio
+Description                 : Contrôleur High Definition Audio
+InstallDate                 : 
+Name                        : Contrôleur High Definition Audio
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1002&DEV_1637&SUBSYS_16371002&REV_00\4&12C9051D&0&0141
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1002&DEV_1637&SUBSYS_16371002&REV_00\4&12C9051D&0&0141
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1002&DEV_1637&REV_00, PCI\VEN_1002&DEV_1637, PCI\VEN_1002&CC_040300, PCI\VEN_1002&CC_0403…}
+HardwareID                  : {PCI\VEN_1002&DEV_1637&SUBSYS_16371002&REV_00, PCI\VEN_1002&DEV_1637&SUBSYS_16371002, PCI\VEN_1002&DEV_1637&CC_040300, PCI\VEN_1002&DEV_1637&CC_0403}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : HDAudBus
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_166A&SUBSYS_00000000&REV_00\3&11583659&0&C0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_166A&SUBSYS_00000000&REV_00\3&11583659&0&C0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_166A&SUBSYS_00000000&REV_00\3&11583659&0&C0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_166A&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_166A&SUBSYS_00000000, PCI\VEN_1022&DEV_166A&REV_00, PCI\VEN_1022&DEV_166A…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Net
+FriendlyName                : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+InstanceId                  : PCI\VEN_14C3&DEV_7961&SUBSYS_46801A3B&REV_00\4&303B37F5&0&0012
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+Description                 : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+InstallDate                 : 
+Name                        : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_14C3&DEV_7961&SUBSYS_46801A3B&REV_00\4&303B37F5&0&0012
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_14C3&DEV_7961&SUBSYS_46801A3B&REV_00\4&303B37F5&0&0012
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e972-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_14C3&DEV_7961&REV_00, PCI\VEN_14C3&DEV_7961, PCI\VEN_14C3&CC_028000, PCI\VEN_14C3&CC_0280…}
+HardwareID                  : {PCI\VEN_14C3&DEV_7961&SUBSYS_46801A3B&REV_00, PCI\VEN_14C3&DEV_7961&SUBSYS_46801A3B, PCI\VEN_14C3&DEV_7961&CC_028000, PCI\VEN_14C3&DEV_7961&CC_0280}
+Manufacturer                : MediaTek, Inc.
+PNPClass                    : Net
+Present                     : True
+Service                     : mtkwlex
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_166F&SUBSYS_00000000&REV_00\3&11583659&0&C5
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_166F&SUBSYS_00000000&REV_00\3&11583659&0&C5
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_166F&SUBSYS_00000000&REV_00\3&11583659&0&C5
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_166F&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_166F&SUBSYS_00000000, PCI\VEN_1022&DEV_166F&REV_00, PCI\VEN_1022&DEV_166F…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_166C&SUBSYS_00000000&REV_00\3&11583659&0&C2
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_166C&SUBSYS_00000000&REV_00\3&11583659&0&C2
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_166C&SUBSYS_00000000&REV_00\3&11583659&0&C2
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_166C&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_166C&SUBSYS_00000000, PCI\VEN_1022&DEV_166C&REV_00, PCI\VEN_1022&DEV_166C…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&08
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&08
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&08
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_1632&SUBSYS_00000000, PCI\VEN_1022&DEV_1632&REV_00, PCI\VEN_1022&DEV_1632…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&10
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&10
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&10
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_1632&SUBSYS_00000000, PCI\VEN_1022&DEV_1632&REV_00, PCI\VEN_1022&DEV_1632…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&40
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&40
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&0&40
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_1632&SUBSYS_00000000, PCI\VEN_1022&DEV_1632&REV_00, PCI\VEN_1022&DEV_1632…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_1671&SUBSYS_00000000&REV_00\3&11583659&0&C7
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1671&SUBSYS_00000000&REV_00\3&11583659&0&C7
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1671&SUBSYS_00000000&REV_00\3&11583659&0&C7
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_1671&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_1671&SUBSYS_00000000, PCI\VEN_1022&DEV_1671&REV_00, PCI\VEN_1022&DEV_1671…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : SCSIAdapter
+FriendlyName                : Contrôleur NVM Express standard
+InstanceId                  : PCI\VEN_8086&DEV_F1AA&SUBSYS_390F8086&REV_03\4&AC7D6AB&0&0014
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Contrôleur NVM Express standard
+Description                 : Contrôleur NVM Express standard
+InstallDate                 : 
+Name                        : Contrôleur NVM Express standard
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_F1AA&SUBSYS_390F8086&REV_03\4&AC7D6AB&0&0014
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_F1AA&SUBSYS_390F8086&REV_03\4&AC7D6AB&0&0014
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97b-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_F1AA&REV_03, PCI\VEN_8086&DEV_F1AA, PCI\VEN_8086&CC_010802, PCI\VEN_8086&CC_0108…}
+HardwareID                  : {PCI\VEN_8086&DEV_F1AA&SUBSYS_390F8086&REV_03, PCI\VEN_8086&DEV_F1AA&SUBSYS_390F8086, PCI\VEN_8086&DEV_F1AA&CC_010802, PCI\VEN_8086&DEV_F1AA&CC_0108}
+Manufacturer                : Contrôleur NVM Express standard
+PNPClass                    : SCSIAdapter
+Present                     : True
+Service                     : stornvme
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Port racine PCI Express
+InstanceId                  : PCI\VEN_1022&DEV_1635&SUBSYS_16351022&REV_00\3&11583659&0&41
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Port racine PCI Express
+Description                 : Port racine PCI Express
+InstallDate                 : 
+Name                        : Port racine PCI Express
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1635&SUBSYS_16351022&REV_00\3&11583659&0&41
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1635&SUBSYS_16351022&REV_00\3&11583659&0&41
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_1635&REV_00, PCI\VEN_1022&DEV_1635, PCI\VEN_1022&CC_060400, PCI\VEN_1022&CC_0604…}
+HardwareID                  : {PCI\VEN_1022&DEV_1635&SUBSYS_16351022&REV_00, PCI\VEN_1022&DEV_1635&SUBSYS_16351022, PCI\VEN_1022&DEV_1635&CC_060400, PCI\VEN_1022&DEV_1635&CC_0604}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : AMD Audio CoProcessor
+InstanceId                  : PCI\VEN_1022&DEV_15E2&SUBSYS_10A31043&REV_01\4&12C9051D&0&0541
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : AMD Audio CoProcessor
+Description                 : AMD Audio CoProcessor
+InstallDate                 : 
+Name                        : AMD Audio CoProcessor
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_15E2&SUBSYS_10A31043&REV_01\4&12C9051D&0&0541
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_15E2&SUBSYS_10A31043&REV_01\4&12C9051D&0&0541
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_15E2&REV_01, PCI\VEN_1022&DEV_15E2, PCI\VEN_1022&CC_048000, PCI\VEN_1022&CC_0480…}
+HardwareID                  : {PCI\VEN_1022&DEV_15E2&SUBSYS_10A31043&REV_01, PCI\VEN_1022&DEV_15E2&SUBSYS_10A31043, PCI\VEN_1022&DEV_15E2&CC_048000, PCI\VEN_1022&DEV_15E2&CC_0480}
+Manufacturer                : AMD
+PNPClass                    : System
+Present                     : True
+Service                     : amdacpbus
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Port racine PCI Express
+InstanceId                  : PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00\3&11583659&0&12
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Port racine PCI Express
+Description                 : Port racine PCI Express
+InstallDate                 : 
+Name                        : Port racine PCI Express
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00\3&11583659&0&12
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00\3&11583659&0&12
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_1634&REV_00, PCI\VEN_1022&DEV_1634, PCI\VEN_1022&CC_060400, PCI\VEN_1022&CC_0604…}
+HardwareID                  : {PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00, PCI\VEN_1022&DEV_1634&SUBSYS_14531022, PCI\VEN_1022&DEV_1634&CC_060400, PCI\VEN_1022&DEV_1634&CC_0604}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Port racine PCI Express
+InstanceId                  : PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00\3&11583659&0&14
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Port racine PCI Express
+Description                 : Port racine PCI Express
+InstallDate                 : 
+Name                        : Port racine PCI Express
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00\3&11583659&0&14
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00\3&11583659&0&14
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&DEV_1634&REV_00, PCI\VEN_1022&DEV_1634, PCI\VEN_1022&CC_060400, PCI\VEN_1022&CC_0604…}
+HardwareID                  : {PCI\VEN_1022&DEV_1634&SUBSYS_14531022&REV_00, PCI\VEN_1022&DEV_1634&SUBSYS_14531022, PCI\VEN_1022&DEV_1634&CC_060400, PCI\VEN_1022&DEV_1634&CC_0604}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Pont processeur hôte standard PCI
+InstanceId                  : PCI\VEN_1022&DEV_166E&SUBSYS_00000000&REV_00\3&11583659&0&C4
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Pont processeur hôte standard PCI
+Description                 : Pont processeur hôte standard PCI
+InstallDate                 : 
+Name                        : Pont processeur hôte standard PCI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_1022&DEV_166E&SUBSYS_00000000&REV_00\3&11583659&0&C4
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_1022&DEV_166E&SUBSYS_00000000&REV_00\3&11583659&0&C4
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : DESKTOP-7DJUUFJ
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_1022&CC_060000, PCI\VEN_1022&CC_0600, PCI\VEN_1022, PCI\CC_060000…}
+HardwareID                  : {PCI\VEN_1022&DEV_166E&SUBSYS_00000000&REV_00, PCI\VEN_1022&DEV_166E&SUBSYS_00000000, PCI\VEN_1022&DEV_166E&REV_00, PCI\VEN_1022&DEV_166E…}
+Manufacturer                : (Périphériques système standard)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : root/cimv2 : Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+

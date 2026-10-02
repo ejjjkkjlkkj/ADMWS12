@@ -1,0 +1,38 @@
+
+Gestionnaire de démarrage du microprogramme
+-------------------------------------------
+identificateur          {fwbootmgr}
+displayorder            {bootmgr}
+                        {9a726aa2-bb05-11f1-9f28-806e6f6e6963}
+                        {9a726aa3-bb05-11f1-9f28-806e6f6e6963}
+                        {9a726aa4-bb05-11f1-9f28-806e6f6e6963}
+timeout                 1
+
+Gestionnaire de démarrage Windows
+---------------------------------
+identificateur          {bootmgr}
+device                  partition=\Device\HarddiskVolume2
+path                    \EFI\MICROSOFT\BOOT\BOOTMGFW.EFI
+description             Windows Boot Manager
+locale                  fr-FR
+inherit                 {globalsettings}
+default                 {current}
+resumeobject            {9c56b359-a2e7-11f1-92d4-f1e535dc3525}
+displayorder            {current}
+toolsdisplayorder       {memdiag}
+timeout                 30
+
+Application logicielle (101fffff)
+--------------------------------
+identificateur          {9a726aa2-bb05-11f1-9f28-806e6f6e6963}
+description             UEFI:CD/DVD Drive
+
+Application logicielle (101fffff)
+--------------------------------
+identificateur          {9a726aa3-bb05-11f1-9f28-806e6f6e6963}
+description             UEFI:Removable Device
+
+Application logicielle (101fffff)
+--------------------------------
+identificateur          {9a726aa4-bb05-11f1-9f28-806e6f6e6963}
+description             UEFI:Network Device

@@ -1,0 +1,83 @@
+
+Caption               : Mémoire physique
+Description           : Mémoire physique
+InstallDate           : 
+Name                  : Mémoire physique
+Status                : 
+CreationClassName     : Win32_PhysicalMemory
+Manufacturer          : Micron Technology
+Model                 : 
+OtherIdentifyingInfo  : 
+PartNumber            : 4ATF1G64HZ-3G2E1    
+PoweredOn             : 
+SerialNumber          : 00000000
+SKU                   : 
+Tag                   : Physical Memory 0
+Version               : 
+HotSwappable          : 
+Removable             : 
+Replaceable           : 
+FormFactor            : 12
+BankLabel             : P0 CHANNEL A
+Capacity              : 8589934592
+DataWidth             : 64
+InterleavePosition    : 
+MemoryType            : 0
+PositionInRow         : 
+Speed                 : 3200
+TotalWidth            : 64
+Attributes            : 1
+ConfiguredClockSpeed  : 3200
+ConfiguredVoltage     : 1200
+DeviceLocator         : DIMM 0
+InterleaveDataDepth   : 
+MaxVoltage            : 1200
+MinVoltage            : 1200
+SMBIOSMemoryType      : 26
+TypeDetail            : 16512
+PSComputerName        : 
+CimClass              : root/cimv2 : Win32_PhysicalMemory
+CimInstanceProperties : {Caption, Description, InstallDate, Name…}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption               : Mémoire physique
+Description           : Mémoire physique
+InstallDate           : 
+Name                  : Mémoire physique
+Status                : 
+CreationClassName     : Win32_PhysicalMemory
+Manufacturer          : Unknown
+Model                 : 
+OtherIdentifyingInfo  : 
+PartNumber            : TXS32G2M3200C22
+PoweredOn             : 
+SerialNumber          : 00000079
+SKU                   : 
+Tag                   : Physical Memory 1
+Version               : 
+HotSwappable          : 
+Removable             : 
+Replaceable           : 
+FormFactor            : 12
+BankLabel             : P0 CHANNEL B
+Capacity              : 34359738368
+DataWidth             : 64
+InterleavePosition    : 
+MemoryType            : 0
+PositionInRow         : 
+Speed                 : 3200
+TotalWidth            : 64
+Attributes            : 2
+ConfiguredClockSpeed  : 3200
+ConfiguredVoltage     : 1200
+DeviceLocator         : DIMM 0
+InterleaveDataDepth   : 
+MaxVoltage            : 1200
+MinVoltage            : 1200
+SMBIOSMemoryType      : 26
+TypeDetail            : 16512
+PSComputerName        : 
+CimClass              : root/cimv2 : Win32_PhysicalMemory
+CimInstanceProperties : {Caption, Description, InstallDate, Name…}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+

@@ -1,0 +1,2751 @@
+
+MacAddress                                       : 00-50-56-C0-00-13
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet19
+InterfaceAlias                                   : VMware Network Adapter VMnet19
+ifIndex                                          : 38
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet19
+ifName                                           : ethernet_32791
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-13
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {F86EE2DE-FAA2-4511-B17D-3A4020E37144}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet19
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {F86EE2DE-FAA2-4511-B17D-3A4020E37144}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00013}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00013
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter19
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{F86EE2DE-FAA2-4511-B17D-3A4020E37144}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet19
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet19
+InterfaceGuid                                    : {F86EE2DE-FAA2-4511-B17D-3A4020E37144}
+InterfaceIndex                                   : 38
+InterfaceName                                    : ethernet_32791
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689400001953792
+NetLuidIndex                                     : 32791
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0018
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-0A
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet10
+InterfaceAlias                                   : VMware Network Adapter VMnet10
+ifIndex                                          : 37
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet10
+ifName                                           : ethernet_32782
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-0A
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {EA74AFAA-2184-4B10-BCAE-A4F447665127}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet10
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {EA74AFAA-2184-4B10-BCAE-A4F447665127}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C0000A}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C0000A
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter10
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{EA74AFAA-2184-4B10-BCAE-A4F447665127}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet10
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet10
+InterfaceGuid                                    : {EA74AFAA-2184-4B10-BCAE-A4F447665127}
+InterfaceIndex                                   : 37
+InterfaceName                                    : ethernet_32782
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399850958848
+NetLuidIndex                                     : 32782
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0009
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-09
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet9
+InterfaceAlias                                   : VMware Network Adapter VMnet9
+ifIndex                                          : 36
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet9
+ifName                                           : ethernet_32781
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-09
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {E9DA4C3E-5120-49C7-BECB-D32BAF2DF96C}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet9
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {E9DA4C3E-5120-49C7-BECB-D32BAF2DF96C}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00009}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00009
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter9
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{E9DA4C3E-5120-49C7-BECB-D32BAF2DF96C}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet9
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet9
+InterfaceGuid                                    : {E9DA4C3E-5120-49C7-BECB-D32BAF2DF96C}
+InterfaceIndex                                   : 36
+InterfaceName                                    : ethernet_32781
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399834181632
+NetLuidIndex                                     : 32781
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0008
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-07
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet7
+InterfaceAlias                                   : VMware Network Adapter VMnet7
+ifIndex                                          : 35
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet7
+ifName                                           : ethernet_32779
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-07
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {E5775C20-E78D-4301-836A-757D511E6DEC}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet7
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {E5775C20-E78D-4301-836A-757D511E6DEC}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00007}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00007
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter7
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{E5775C20-E78D-4301-836A-757D511E6DEC}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet7
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet7
+InterfaceGuid                                    : {E5775C20-E78D-4301-836A-757D511E6DEC}
+InterfaceIndex                                   : 35
+InterfaceName                                    : ethernet_32779
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399800627200
+NetLuidIndex                                     : 32779
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0006
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-04
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet4
+InterfaceAlias                                   : VMware Network Adapter VMnet4
+ifIndex                                          : 34
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet4
+ifName                                           : ethernet_32776
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-04
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {E0887703-1EDE-4705-933A-3A8A0273D8BA}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet4
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {E0887703-1EDE-4705-933A-3A8A0273D8BA}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00004}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00004
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter4
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{E0887703-1EDE-4705-933A-3A8A0273D8BA}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet4
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet4
+InterfaceGuid                                    : {E0887703-1EDE-4705-933A-3A8A0273D8BA}
+InterfaceIndex                                   : 34
+InterfaceName                                    : ethernet_32776
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399750295552
+NetLuidIndex                                     : 32776
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0003
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-0D
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet13
+InterfaceAlias                                   : VMware Network Adapter VMnet13
+ifIndex                                          : 31
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet13
+ifName                                           : ethernet_32785
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-0D
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {B5BBFAE6-E080-459F-BBB2-AC2F669D4A1B}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet13
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {B5BBFAE6-E080-459F-BBB2-AC2F669D4A1B}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C0000D}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C0000D
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter13
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{B5BBFAE6-E080-459F-BBB2-AC2F669D4A1B}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet13
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet13
+InterfaceGuid                                    : {B5BBFAE6-E080-459F-BBB2-AC2F669D4A1B}
+InterfaceIndex                                   : 31
+InterfaceName                                    : ethernet_32785
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399901290496
+NetLuidIndex                                     : 32785
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0012
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-02
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet2
+InterfaceAlias                                   : VMware Network Adapter VMnet2
+ifIndex                                          : 30
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet2
+ifName                                           : ethernet_32774
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-02
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {B1F96307-DE16-444A-AF8C-EAD9812D2D35}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet2
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {B1F96307-DE16-444A-AF8C-EAD9812D2D35}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00002}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00002
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter2
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{B1F96307-DE16-444A-AF8C-EAD9812D2D35}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet2
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet2
+InterfaceGuid                                    : {B1F96307-DE16-444A-AF8C-EAD9812D2D35}
+InterfaceIndex                                   : 30
+InterfaceName                                    : ethernet_32774
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399716741120
+NetLuidIndex                                     : 32774
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0001
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-03
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet3
+InterfaceAlias                                   : VMware Network Adapter VMnet3
+ifIndex                                          : 26
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet3
+ifName                                           : ethernet_32775
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-03
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {9170C9A6-32AB-4EC0-9A22-A56CC61C9238}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet3
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {9170C9A6-32AB-4EC0-9A22-A56CC61C9238}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00003}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00003
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter3
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{9170C9A6-32AB-4EC0-9A22-A56CC61C9238}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet3
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet3
+InterfaceGuid                                    : {9170C9A6-32AB-4EC0-9A22-A56CC61C9238}
+InterfaceIndex                                   : 26
+InterfaceName                                    : ethernet_32775
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399733518336
+NetLuidIndex                                     : 32775
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0002
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-10
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet16
+InterfaceAlias                                   : VMware Network Adapter VMnet16
+ifIndex                                          : 25
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet16
+ifName                                           : ethernet_32788
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-10
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {8DF773C7-A4AF-452C-85EB-C8D29C391A50}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet16
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {8DF773C7-A4AF-452C-85EB-C8D29C391A50}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00010}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00010
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter16
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{8DF773C7-A4AF-452C-85EB-C8D29C391A50}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet16
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet16
+InterfaceGuid                                    : {8DF773C7-A4AF-452C-85EB-C8D29C391A50}
+InterfaceIndex                                   : 25
+InterfaceName                                    : ethernet_32788
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399951622144
+NetLuidIndex                                     : 32788
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0015
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 14-13-33-E1-0A-46
+Status                                           : Disconnected
+LinkSpeed                                        : 3 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : BlueTooth
+AdminStatus                                      : Up
+MediaConnectionState                             : Disconnected
+DriverInformation                                : Driver Date 2006-06-21 Version 10.0.26100.8972 NDIS 6.30
+DriverFileName                                   : bthpan.sys
+NdisVersion                                      : 6.30
+ifOperStatus                                     : Down
+ifAlias                                          : Connexion réseau Bluetooth
+InterfaceAlias                                   : Connexion réseau Bluetooth
+ifIndex                                          : 24
+ifDesc                                           : Bluetooth Device (Personal Area Network)
+ifName                                           : ethernet_32772
+DriverVersion                                    : 10.0.26100.8972
+LinkLayerAddress                                 : 14-13-33-E1-0A-46
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {8995276F-B994-4715-AC15-2CCCDCFB3488}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : Connexion réseau Bluetooth
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {8995276F-B994-4715-AC15-2CCCDCFB3488}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 3000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {141333E10A46}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 141333E10A46
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : BTH\MS_BTHPAN
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{8995276F-B994-4715-AC15-2CCCDCFB3488}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2006-06-21
+DriverDateData                                   : 127953216000000000
+DriverDescription                                : Bluetooth Device (Personal Area Network)
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 30
+DriverName                                       : \SystemRoot\System32\drivers\bthpan.sys
+DriverProvider                                   : Microsoft
+DriverVersionString                              : 10.0.26100.8972
+EndPointInterface                                : False
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : Bluetooth Device (Personal Area Network)
+InterfaceGuid                                    : {8995276F-B994-4715-AC15-2CCCDCFB3488}
+InterfaceIndex                                   : 24
+InterfaceName                                    : ethernet_32772
+InterfaceOperationalStatus                       : 2
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 0
+MediaConnectState                                : 2
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 0
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 10
+NetLuid                                          : 1689399683186688
+NetLuidIndex                                     : 32772
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : True
+PnPDeviceID                                      : BTH\MS_BTHPAN\8&d0e70e&0&2
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 3000000
+State                                            : 2
+TransmitLinkSpeed                                : 3000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-15-5D-87-78-20
+Status                                           : Up
+LinkSpeed                                        : 10 Gbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : Unspecified
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date  Version 
+DriverFileName                                   : 
+NdisVersion                                      : 
+ifOperStatus                                     : Up
+ifAlias                                          : vEthernet (Default Switch)
+InterfaceAlias                                   : vEthernet (Default Switch)
+ifIndex                                          : 40
+ifDesc                                           : Hyper-V Virtual Ethernet Adapter
+ifName                                           : ethernet_32770
+DriverVersion                                    : 
+LinkLayerAddress                                 : 00-15-5D-87-78-20
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {8849E63B-ECA8-4C42-BA9A-3C0CC592242A}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : vEthernet (Default Switch)
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {8849E63B-ECA8-4C42-BA9A-3C0CC592242A}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 10000000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : 
+LinkTechnology                                   : 
+NetworkAddresses                                 : {00155D877820}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 00155D877820
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : 
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{8849E63B-ECA8-4C42-BA9A-3C0CC592242A}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 
+DriverDateData                                   : 
+DriverDescription                                : 
+DriverMajorNdisVersion                           : 
+DriverMinorNdisVersion                           : 
+DriverName                                       : 
+DriverProvider                                   : 
+DriverVersionString                              : 
+EndPointInterface                                : False
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : {41}
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : Hyper-V Virtual Ethernet Adapter
+InterfaceGuid                                    : {8849E63B-ECA8-4C42-BA9A-3C0CC592242A}
+InterfaceIndex                                   : 40
+InterfaceName                                    : ethernet_32770
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : {39}
+MajorDriverVersion                               : 
+MediaConnectState                                : 1
+MediaDuplexState                                 : 0
+MinorDriverVersion                               : 
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 0
+NetLuid                                          : 1689399649632256
+NetLuidIndex                                     : 32770
+NotUserRemovable                                 : True
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : 
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 10000000000
+State                                            : 1
+TransmitLinkSpeed                                : 10000000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : False
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 14-13-33-E1-0A-47
+Status                                           : Up
+LinkSpeed                                        : 154.5 Mbps
+MediaType                                        : Native 802.11
+PhysicalMediaType                                : Native 802.11
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2025-03-19 Version 3.0.1.1335 NDIS 6.70
+DriverFileName                                   : mtkwl6ex.sys
+NdisVersion                                      : 6.70
+ifOperStatus                                     : Up
+ifAlias                                          : Wi-Fi
+InterfaceAlias                                   : Wi-Fi
+ifIndex                                          : 22
+ifDesc                                           : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+ifName                                           : wireless_32768
+DriverVersion                                    : 3.0.1.1335
+LinkLayerAddress                                 : 14-13-33-E1-0A-47
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {84585A01-29F0-4F25-A4EA-F88BD514448B}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : Wi-Fi
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {84585A01-29F0-4F25-A4EA-F88BD514448B}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 154500000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : False
+LinkTechnology                                   : 
+NetworkAddresses                                 : {141333E10A47}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 141333E10A47
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : PCI\VEN_14C3&DEV_7961&SUBSYS_46801A3B
+ConnectorPresent                                 : True
+DeviceName                                       : \Device\{84585A01-29F0-4F25-A4EA-F88BD514448B}
+DeviceWakeUpEnable                               : True
+DriverDate                                       : 2025-03-19
+DriverDateData                                   : 133868160000000000
+DriverDescription                                : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 70
+DriverName                                       : \SystemRoot\System32\DriverStore\FileRepository\mtkwl6ex.inf_amd64_66f69464451b48c3\mtkwl6ex.sys
+DriverProvider                                   : MediaTek, Inc.
+DriverVersionString                              : 3.0.1.1335
+EndPointInterface                                : False
+HardwareInterface                                : True
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : {43}
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+InterfaceGuid                                    : {84585A01-29F0-4F25-A4EA-F88BD514448B}
+InterfaceIndex                                   : 22
+InterfaceName                                    : wireless_32768
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 71
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 1
+MediaConnectState                                : 1
+MediaDuplexState                                 : 1
+MinorDriverVersion                               : 1
+MtuSize                                          : 1500
+NdisMedium                                       : 16
+NdisPhysicalMedium                               : 9
+NetLuid                                          : 19985273102270464
+NetLuidIndex                                     : 32768
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : PCI\VEN_14C3&DEV_7961&SUBSYS_46801A3B&REV_00\4&303b37f5&0&0012
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 65000000
+State                                            : 2
+TransmitLinkSpeed                                : 154500000
+Virtual                                          : False
+VlanID                                           : 
+WdmInterface                                     : False
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-0E
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet14
+InterfaceAlias                                   : VMware Network Adapter VMnet14
+ifIndex                                          : 21
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet14
+ifName                                           : ethernet_32786
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-0E
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {7512401F-551C-463A-8C45-DE4233364CF9}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet14
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {7512401F-551C-463A-8C45-DE4233364CF9}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C0000E}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C0000E
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter14
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{7512401F-551C-463A-8C45-DE4233364CF9}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet14
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet14
+InterfaceGuid                                    : {7512401F-551C-463A-8C45-DE4233364CF9}
+InterfaceIndex                                   : 21
+InterfaceName                                    : ethernet_32786
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399918067712
+NetLuidIndex                                     : 32786
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0013
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-01
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet1
+InterfaceAlias                                   : VMware Network Adapter VMnet1
+ifIndex                                          : 20
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet1
+ifName                                           : ethernet_32773
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-01
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {714D30B6-54E4-4754-A284-0727B8A4728D}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet1
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {714D30B6-54E4-4754-A284-0727B8A4728D}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00001}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00001
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter1
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{714D30B6-54E4-4754-A284-0727B8A4728D}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet1
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet1
+InterfaceGuid                                    : {714D30B6-54E4-4754-A284-0727B8A4728D}
+InterfaceIndex                                   : 20
+InterfaceName                                    : ethernet_32773
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399699963904
+NetLuidIndex                                     : 32773
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0000
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-11
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet17
+InterfaceAlias                                   : VMware Network Adapter VMnet17
+ifIndex                                          : 18
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet17
+ifName                                           : ethernet_32789
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-11
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {6896C075-213B-4CE3-A263-A78FEE4A0247}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet17
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {6896C075-213B-4CE3-A263-A78FEE4A0247}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00011}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00011
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter17
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{6896C075-213B-4CE3-A263-A78FEE4A0247}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet17
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet17
+InterfaceGuid                                    : {6896C075-213B-4CE3-A263-A78FEE4A0247}
+InterfaceIndex                                   : 18
+InterfaceName                                    : ethernet_32789
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399968399360
+NetLuidIndex                                     : 32789
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0016
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-0F
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet15
+InterfaceAlias                                   : VMware Network Adapter VMnet15
+ifIndex                                          : 10
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet15
+ifName                                           : ethernet_32787
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-0F
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {283E73A2-134C-4CE0-A920-E800D4514D09}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet15
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {283E73A2-134C-4CE0-A920-E800D4514D09}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C0000F}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C0000F
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter15
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{283E73A2-134C-4CE0-A920-E800D4514D09}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet15
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet15
+InterfaceGuid                                    : {283E73A2-134C-4CE0-A920-E800D4514D09}
+InterfaceIndex                                   : 10
+InterfaceName                                    : ethernet_32787
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399934844928
+NetLuidIndex                                     : 32787
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0014
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-08
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet8
+InterfaceAlias                                   : VMware Network Adapter VMnet8
+ifIndex                                          : 9
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet8
+ifName                                           : ethernet_32780
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-08
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {1561A6B1-1A8D-4B1F-9CDB-B9AB5302B694}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet8
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {1561A6B1-1A8D-4B1F-9CDB-B9AB5302B694}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00008}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00008
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter8
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{1561A6B1-1A8D-4B1F-9CDB-B9AB5302B694}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet8
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet8
+InterfaceGuid                                    : {1561A6B1-1A8D-4B1F-9CDB-B9AB5302B694}
+InterfaceIndex                                   : 9
+InterfaceName                                    : ethernet_32780
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399817404416
+NetLuidIndex                                     : 32780
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0007
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-12
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet18
+InterfaceAlias                                   : VMware Network Adapter VMnet18
+ifIndex                                          : 8
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet18
+ifName                                           : ethernet_32790
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-12
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {11E29079-9CE0-48EA-89ED-092A25DFAB5B}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet18
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {11E29079-9CE0-48EA-89ED-092A25DFAB5B}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00012}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00012
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter18
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{11E29079-9CE0-48EA-89ED-092A25DFAB5B}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet18
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet18
+InterfaceGuid                                    : {11E29079-9CE0-48EA-89ED-092A25DFAB5B}
+InterfaceIndex                                   : 8
+InterfaceName                                    : ethernet_32790
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399985176576
+NetLuidIndex                                     : 32790
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0017
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-0C
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet12
+InterfaceAlias                                   : VMware Network Adapter VMnet12
+ifIndex                                          : 6
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet12
+ifName                                           : ethernet_32784
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-0C
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {0DDB2395-EFFB-4D62-BF22-77EF75D9B4D8}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet12
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {0DDB2395-EFFB-4D62-BF22-77EF75D9B4D8}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C0000C}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C0000C
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter12
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{0DDB2395-EFFB-4D62-BF22-77EF75D9B4D8}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet12
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet12
+InterfaceGuid                                    : {0DDB2395-EFFB-4D62-BF22-77EF75D9B4D8}
+InterfaceIndex                                   : 6
+InterfaceName                                    : ethernet_32784
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399884513280
+NetLuidIndex                                     : 32784
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0011
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-05
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet5
+InterfaceAlias                                   : VMware Network Adapter VMnet5
+ifIndex                                          : 5
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet5
+ifName                                           : ethernet_32777
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-05
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {0A7744A4-5B79-4573-B3E3-E11A0A803C12}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet5
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {0A7744A4-5B79-4573-B3E3-E11A0A803C12}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00005}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00005
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter5
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{0A7744A4-5B79-4573-B3E3-E11A0A803C12}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet5
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet5
+InterfaceGuid                                    : {0A7744A4-5B79-4573-B3E3-E11A0A803C12}
+InterfaceIndex                                   : 5
+InterfaceName                                    : ethernet_32777
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399767072768
+NetLuidIndex                                     : 32777
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0004
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-06
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet6
+InterfaceAlias                                   : VMware Network Adapter VMnet6
+ifIndex                                          : 4
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet6
+ifName                                           : ethernet_32778
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-06
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {091F16B9-E2B4-443C-9C1A-3445A6EF1661}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet6
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {091F16B9-E2B4-443C-9C1A-3445A6EF1661}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C00006}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C00006
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter6
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{091F16B9-E2B4-443C-9C1A-3445A6EF1661}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet6
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet6
+InterfaceGuid                                    : {091F16B9-E2B4-443C-9C1A-3445A6EF1661}
+InterfaceIndex                                   : 4
+InterfaceName                                    : ethernet_32778
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399783849984
+NetLuidIndex                                     : 32778
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0005
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+
+MacAddress                                       : 00-50-56-C0-00-0B
+Status                                           : Up
+LinkSpeed                                        : 100 Mbps
+MediaType                                        : 802.3
+PhysicalMediaType                                : 802.3
+AdminStatus                                      : Up
+MediaConnectionState                             : Connected
+DriverInformation                                : Driver Date 2026-06-29 Version 26.5.0.1 NDIS 6.20
+DriverFileName                                   : vmnetadapter.sys
+NdisVersion                                      : 6.20
+ifOperStatus                                     : Up
+ifAlias                                          : VMware Network Adapter VMnet11
+InterfaceAlias                                   : VMware Network Adapter VMnet11
+ifIndex                                          : 2
+ifDesc                                           : VMware Virtual Ethernet Adapter for VMnet11
+ifName                                           : ethernet_32783
+DriverVersion                                    : 26.5.0.1
+LinkLayerAddress                                 : 00-50-56-C0-00-0B
+Caption                                          : 
+Description                                      : 
+ElementName                                      : 
+InstanceID                                       : {0467A040-510E-446B-81B8-AF73043F66C5}
+CommunicationStatus                              : 
+DetailedStatus                                   : 
+HealthState                                      : 
+InstallDate                                      : 
+Name                                             : VMware Network Adapter VMnet11
+OperatingStatus                                  : 
+OperationalStatus                                : 
+PrimaryStatus                                    : 
+StatusDescriptions                               : 
+AvailableRequestedStates                         : 
+EnabledDefault                                   : 2
+EnabledState                                     : 5
+OtherEnabledState                                : 
+RequestedState                                   : 12
+TimeOfLastStateChange                            : 
+TransitioningToState                             : 12
+AdditionalAvailability                           : 
+Availability                                     : 
+CreationClassName                                : MSFT_NetAdapter
+DeviceID                                         : {0467A040-510E-446B-81B8-AF73043F66C5}
+ErrorCleared                                     : 
+ErrorDescription                                 : 
+IdentifyingDescriptions                          : 
+LastErrorCode                                    : 
+MaxQuiesceTime                                   : 
+OtherIdentifyingInfo                             : 
+PowerManagementCapabilities                      : 
+PowerManagementSupported                         : 
+PowerOnHours                                     : 
+StatusInfo                                       : 
+SystemCreationClassName                          : CIM_NetworkPort
+SystemName                                       : DESKTOP-7DJUUFJ
+TotalPowerOnHours                                : 
+MaxSpeed                                         : 
+OtherPortType                                    : 
+PortType                                         : 
+RequestedSpeed                                   : 
+Speed                                            : 100000000
+UsageRestriction                                 : 
+ActiveMaximumTransmissionUnit                    : 1500
+AutoSense                                        : 
+FullDuplex                                       : True
+LinkTechnology                                   : 
+NetworkAddresses                                 : {005056C0000B}
+OtherLinkTechnology                              : 
+OtherNetworkPortType                             : 
+PermanentAddress                                 : 005056C0000B
+PortNumber                                       : 0
+SupportedMaximumTransmissionUnit                 : 
+AdminLocked                                      : False
+ComponentID                                      : *VMnetAdapter11
+ConnectorPresent                                 : False
+DeviceName                                       : \Device\{0467A040-510E-446B-81B8-AF73043F66C5}
+DeviceWakeUpEnable                               : False
+DriverDate                                       : 2026-06-29
+DriverDateData                                   : 134271648000000000
+DriverDescription                                : VMware Virtual Ethernet Adapter for VMnet11
+DriverMajorNdisVersion                           : 6
+DriverMinorNdisVersion                           : 20
+DriverName                                       : \SystemRoot\System32\drivers\vmnetadapter.sys
+DriverProvider                                   : Broadcom Inc.
+DriverVersionString                              : 26.5.0.1
+EndPointInterface                                : True
+HardwareInterface                                : False
+Hidden                                           : False
+HigherLayerInterfaceIndices                      : 
+IMFilter                                         : False
+InterfaceAdminStatus                             : 1
+InterfaceDescription                             : VMware Virtual Ethernet Adapter for VMnet11
+InterfaceGuid                                    : {0467A040-510E-446B-81B8-AF73043F66C5}
+InterfaceIndex                                   : 2
+InterfaceName                                    : ethernet_32783
+InterfaceOperationalStatus                       : 1
+InterfaceType                                    : 6
+iSCSIInterface                                   : False
+LowerLayerInterfaceIndices                       : 
+MajorDriverVersion                               : 6
+MediaConnectState                                : 1
+MediaDuplexState                                 : 2
+MinorDriverVersion                               : 20
+MtuSize                                          : 1500
+NdisMedium                                       : 0
+NdisPhysicalMedium                               : 14
+NetLuid                                          : 1689399867736064
+NetLuidIndex                                     : 32783
+NotUserRemovable                                 : False
+OperationalStatusDownDefaultPortNotAuthenticated : False
+OperationalStatusDownInterfacePaused             : False
+OperationalStatusDownLowPowerState               : False
+OperationalStatusDownMediaDisconnected           : False
+PnPDeviceID                                      : ROOT\VMWARE\0010
+PromiscuousMode                                  : False
+ReceiveLinkSpeed                                 : 100000000
+State                                            : 2
+TransmitLinkSpeed                                : 100000000
+Virtual                                          : True
+VlanID                                           : 
+WdmInterface                                     : True
+PSComputerName                                   : 
+CimClass                                         : ROOT/StandardCimv2 : MSFT_NetAdapter
+CimInstanceProperties                            : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties                              : Microsoft.Management.Infrastructure.CimSystemProperties
+

@@ -1,0 +1,17 @@
+{
+  "Timestamp": "2026-10-02T10:21:34+02:00",
+  "Computer": "DESKTOP-7DJUUFJ",
+  "Manufacturer": "ASUSTeK COMPUTER INC.",
+  "Model": "VivoBook_ASUSLaptop M1603QA",
+  "CPU": "AMD Ryzen 7 5800H with Radeon Graphics         ",
+  "Cores": 8,
+  "LogicalProcessors": 16,
+  "Architecture": 64,
+  "RAM_GB": 39.4,
+  "BIOS": "M1603QA.308",
+  "BIOSDate": "2023-05-22T02:00:00+02:00",
+  "OS": "Microsoft Windows 11 Entreprise",
+  "OSVersion": "10.0.26300",
+  "SecureBoot": false,
+  "Hypervisor": true
+}

@@ -1,0 +1,64 @@
+
+SriovSupport                      : NoIoMmuSupport
+PcieLinkSpeed                     : 5.0 GT/s
+PcieMaxLinkSpeed                  : 5.0 GT/s
+Version                           : 1.1+
+DeviceType                        : PCI Express endpoint
+CurrentSpeedAndMode               : NA
+ifAlias                           : Wi-Fi
+InterfaceAlias                    : Wi-Fi
+ifDesc                            : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+Segment                           : 0
+Bus                               : 1
+Device                            : 0
+Function                          : 0
+Slot                              : 
+PcieLinkWidth                     : 1
+Caption                           : MSFT_NetAdapterHardwareInfoSettingData 'MediaTek Wi-Fi 6 MT7921 Wireless LAN Card'
+Description                       : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+ElementName                       : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+InstanceID                        : {84585A01-29F0-4F25-A4EA-F88BD514448B}
+InterfaceDescription              : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+Name                              : Wi-Fi
+Source                            : 2
+SystemName                        : DESKTOP-7DJUUFJ
+BusNumber                         : 1
+DeviceNumber                      : 0
+Dma64BitSupported                 : False
+FunctionNumber                    : 0
+LineBasedInterrupts               : False
+LineBasedInterruptSupported       : True
+LocationInformationString         : Bus PCI 1, périphérique 0, fonction 0
+MaxInterruptMessages              : 32
+MsiEnabled                        : True
+MsiInterruptSupported             : True
+MsiSupported                      : True
+MsiXEnabled                       : False
+MsiXInterruptSupported            : False
+MsixMessageAffinityArray          : 
+MsiXSupported                     : False
+NoInterrupt                       : False
+NumaNode                          : 
+NumMsiMessages                    : 
+NumMsixTableEntries               : 
+PciCurrentSpeedAndMode            : 
+PciDeviceLabelID                  : 
+PciDeviceLabelString              : 
+PciDeviceType                     : 2
+PciExpressCurrentLinkSpeedEncoded : 2
+PciExpressCurrentLinkWidth        : 1
+PciExpressCurrentPayloadSize      : 128
+PciExpressMaxLinkSpeedEncoded     : 2
+PciExpressMaxLinkWidth            : 1
+PciExpressMaxPayloadSize          : 128
+PciExpressMaxReadRequestSize      : 512
+PciExpressVersion                 : 2
+PciXCurrentSpeedAndMode           : 
+S0WakeupSupported                 : True
+SegmentNumber                     : 0
+SlotNumber                        : 
+PSComputerName                    : 
+CimClass                          : ROOT/StandardCimv2 : MSFT_NetAdapterHardwareInfoSettingData
+CimInstanceProperties             : {Caption, Description, ElementName, InstanceID…}
+CimSystemProperties               : Microsoft.Management.Infrastructure.CimSystemProperties
+

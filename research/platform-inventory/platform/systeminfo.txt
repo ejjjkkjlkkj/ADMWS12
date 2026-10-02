@@ -1,0 +1,162 @@
+
+Nom d'hôte:                                 DESKTOP-7DJUUFJ
+Nom du système d'exploitation:              Microsoft Windows 11 Entreprise
+Version du système d'exploitation:          10.0.26300 N/A build 26300
+Fabricant du système d'exploitation:        Microsoft Corporation
+Configuration du système d'exploitation:    Station de travail autonome
+Type de build du système d'exploitation:    Multiprocessor Free
+Propriétaire enregistré:                    Utilisateur Windows
+Organisation enregistrée:                   
+ID du produit:                              00328-82876-15342-AAOEM
+Date d'installation originale:              15/09/2026, 19:08:56
+Heure de démarrage du système:              02/10/2026, 07:40:33
+Fabricant du système:                       ASUSTeK COMPUTER INC.
+Modèle du système:                          VivoBook_ASUSLaptop M1603QA
+Type du système:                            x64-based PC
+Processeur(s):                              1 processeur(s) installé(s).
+                                            [01] : AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3201 MHz
+Version du BIOS:                            American Megatrends International, LLC. M1603QA.308, 22/05/2023
+Répertoire Windows:                         C:\WINDOWS
+Répertoire système:                         C:\WINDOWS\system32
+Appareil de démarrage:                      \Device\HarddiskVolume2
+Paramètres régionaux système:               fr;Français (France)
+Paramètres régionaux d'entrée:              fr;Français (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+Mémoire physique totale:                    40 349 Mo
+Mémoire physique disponible:                30 677 Mo
+Mémoire virtuelle : taille maximale:        46 237 Mo
+Mémoire virtuelle : disponible:             35 115 Mo
+Mémoire virtuelle : en cours d'utilisation: 11 122 Mo
+Emplacement(s) de fichier d'échange:        C:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\DESKTOP-7DJUUFJ
+Correctif(s) logiciel(s):                   4 Corrections installées.
+                                            [01]: KB5126052
+                                            [02]: KB5121794
+                                            [03]: KB5124010
+                                            [04]: KB5124009
+Carte(s) réseau:                            21 carte(s) réseau installée(s).
+                                            [01]: VMware Virtual Ethernet Adapter for VMnet1
+                                                  Nom de la connexion : VMware Network Adapter VMnet1
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.102.1
+                                                  [02]: fe80::c62a:9209:a9c7:aca8
+                                            [02]: VMware Virtual Ethernet Adapter for VMnet2
+                                                  Nom de la connexion : VMware Network Adapter VMnet2
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.48.1
+                                                  [02]: fe80::58d9:2414:79cf:1644
+                                            [03]: VMware Virtual Ethernet Adapter for VMnet3
+                                                  Nom de la connexion : VMware Network Adapter VMnet3
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.170.1
+                                                  [02]: fe80::764f:f9b9:ccc2:171f
+                                            [04]: VMware Virtual Ethernet Adapter for VMnet4
+                                                  Nom de la connexion : VMware Network Adapter VMnet4
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.115.1
+                                                  [02]: fe80::cd4d:4ffb:a2ae:8bc3
+                                            [05]: VMware Virtual Ethernet Adapter for VMnet5
+                                                  Nom de la connexion : VMware Network Adapter VMnet5
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.139.1
+                                                  [02]: fe80::44f4:8cee:13ff:652d
+                                            [06]: VMware Virtual Ethernet Adapter for VMnet6
+                                                  Nom de la connexion : VMware Network Adapter VMnet6
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.95.1
+                                                  [02]: fe80::79e4:9613:68f:c0d5
+                                            [07]: VMware Virtual Ethernet Adapter for VMnet7
+                                                  Nom de la connexion : VMware Network Adapter VMnet7
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.237.1
+                                                  [02]: fe80::3ddf:560a:c50:bb54
+                                            [08]: VMware Virtual Ethernet Adapter for VMnet8
+                                                  Nom de la connexion : VMware Network Adapter VMnet8
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.32.1
+                                                  [02]: fe80::a7b9:b72d:32a0:640b
+                                            [09]: VMware Virtual Ethernet Adapter for VMnet9
+                                                  Nom de la connexion : VMware Network Adapter VMnet9
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.42.1
+                                                  [02]: fe80::3ea7:4e10:367f:43b8
+                                            [10]: VMware Virtual Ethernet Adapter for VMnet10
+                                                  Nom de la connexion : VMware Network Adapter VMnet10
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.70.1
+                                                  [02]: fe80::810c:104c:ee65:ac76
+                                            [11]: VMware Virtual Ethernet Adapter for VMnet11
+                                                  Nom de la connexion : VMware Network Adapter VMnet11
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.154.1
+                                                  [02]: fe80::6d13:140b:1997:6a9f
+                                            [12]: VMware Virtual Ethernet Adapter for VMnet12
+                                                  Nom de la connexion : VMware Network Adapter VMnet12
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.147.1
+                                                  [02]: fe80::6fb0:ab64:fe96:1d0c
+                                            [13]: VMware Virtual Ethernet Adapter for VMnet13
+                                                  Nom de la connexion : VMware Network Adapter VMnet13
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.239.1
+                                                  [02]: fe80::24df:f03b:b2e2:779b
+                                            [14]: VMware Virtual Ethernet Adapter for VMnet14
+                                                  Nom de la connexion : VMware Network Adapter VMnet14
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.19.1
+                                                  [02]: fe80::d195:2e05:25e7:9bb5
+                                            [15]: VMware Virtual Ethernet Adapter for VMnet15
+                                                  Nom de la connexion : VMware Network Adapter VMnet15
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.156.1
+                                                  [02]: fe80::49e4:5202:785:df62
+                                            [16]: VMware Virtual Ethernet Adapter for VMnet16
+                                                  Nom de la connexion : VMware Network Adapter VMnet16
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.2.1
+                                                  [02]: fe80::aa9b:878d:607a:d8ae
+                                            [17]: VMware Virtual Ethernet Adapter for VMnet17
+                                                  Nom de la connexion : VMware Network Adapter VMnet17
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.140.1
+                                                  [02]: fe80::f454:ef47:afeb:1b14
+                                            [18]: VMware Virtual Ethernet Adapter for VMnet18
+                                                  Nom de la connexion : VMware Network Adapter VMnet18
+                                                  DHCP activé :         Non
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.246.1
+                                                  [02]: fe80::cfdd:2a89:5f6d
+                                            [19]: VMware Virtual Ethernet Adapter for VMne
+Sécurité basée sur la virtualisation:       État : En cours d'exécution
+                                            Propriétés de sécurité requises :
+                                            Propriétés de sécurité disponibles :
+                                                  Prise en charge de la virtualisation de base
+                                                  Protection DMA
+                                                  Remplacement de mémoire sécurisé
+                                                  Code UEFI en lecture seule
+                                                  Contrôle d'exécution basé sur le mode
+                                            Services Configured:
+                                            Services Running:
+                                                  Credential Guard
+                                            App Control for Business policy: Appliqué
+                                            App Control for Business user mode policy: Audit
+                                            Fonctionnalités de sécurité activées :
+Configuration requise pour Hyper-V:         Un hyperviseur a été détecté. Les fonctionnalités nécessaires à Hyper-V ne seront pas affichées.

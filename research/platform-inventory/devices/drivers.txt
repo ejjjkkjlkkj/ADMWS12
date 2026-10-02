@@ -1,0 +1,544 @@
+Utilitaire Plug-and-Play Microsoft
+
+Nom publiÚá:     oem0.inf
+Nom dÆorigineá:      amdacpbus.inf
+Nom du fournisseurá:      AMD
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     07/08/2024 6.0.0.78
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem48.inf
+Nom dÆorigineá:      amdfendr.inf
+Nom du fournisseurá:      AMD
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     04/19/2024 23.19.0.2
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem36.inf
+Nom dÆorigineá:      amdgpio2.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     04/05/2024 2.2.0.133
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem52.inf
+Nom dÆorigineá:      amdi2c.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     03/26/2024 1.2.0.124
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem17.inf
+Nom dÆorigineá:      amdmicropep.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     03/27/2024 1.0.43.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem2.inf
+Nom dÆorigineá:      amdpcidev.inf
+Nom du fournisseurá:      Advanced Micro Devices
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     03/26/2024 1.0.0.90
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem22.inf
+Nom dÆorigineá:      amdpsp.inf
+Nom du fournisseurá:      Advanced Micro Devices Inc.
+Nom de la classeá:         SecurityDevices
+GUID de la classeá:         {d94ee5d8-d189-4994-83d2-f68d7d41b0e6}
+Version du piloteá:     04/30/2024 5.28.0.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem33.inf
+Nom dÆorigineá:      amduart.inf
+Nom du fournisseurá:      AMD
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     03/26/2024 1.2.0.118
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem38.inf
+Nom dÆorigineá:      amdwddme.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {07a2a561-d001-4503-b239-ef2fe0379efb}
+Version du piloteá:     07/15/2024 31.0.21916.1002
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem34.inf
+Nom dÆorigineá:      asusoledcare.inf
+Nom du fournisseurá:      ASUSTeK COMPUTER INC.
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {28984b45-5808-4646-ae14-378fb3ce0fde}
+Version du piloteá:     04/02/2024 1.0.16.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem12.inf
+Nom dÆorigineá:      asusptpfilter.inf
+Nom du fournisseurá:      ASUSTek COMPUTER INC.
+Nom de la classeá:         HIDClass
+GUID de la classeá:         {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Version du piloteá:     11/26/2025 16.0.0.41
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem47.inf
+Nom dÆorigineá:      asussci2.inf
+Nom du fournisseurá:      ASUSTeK COMPUTER INC.
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     08/19/2026 3.1.70.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem11.inf
+Nom dÆorigineá:      dtsapo4dapcznasusextensionpkg.inf
+Nom du fournisseurá:      DTS
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {0f0ed162-ad8a-b01e-d1d0-5780c1e99f16}
+Version du piloteá:     11/29/2022 1.11.18.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem35.inf
+Nom dÆorigineá:      hdx_asusext_apot_2-63_off_basic.inf
+Nom du fournisseurá:      Realtek Semiconductor Corp.
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {8232b627-30b1-4f3c-84c6-e103bd6feccb}
+Version du piloteá:     10/31/2023 6.0.9597.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem30.inf
+Nom dÆorigineá:      hdx_asusext_apot_ad72_g.inf
+Nom du fournisseurá:      Realtek Semiconductor Corp.
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {a9fae730-fe66-4d56-a160-29263e8ff026}
+Version du piloteá:     10/31/2023 6.0.9597.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem26.inf
+Nom dÆorigineá:      hdx_asusext_spdllt_2-63.inf
+Nom du fournisseurá:      Realtek
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {7f7901fa-ea73-4a95-bada-55bf89f37009}
+Version du piloteá:     05/24/2022 6.0.9357.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem29.inf
+Nom dÆorigineá:      hdx_asusext_xperi4_dsp_rtk_gen4.inf
+Nom du fournisseurá:      Realtek Semiconductor Corp.
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {c3a63edd-2d27-4b66-b155-5e94b43d926a}
+Version du piloteá:     10/31/2023 6.0.9597.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem53.inf
+Nom dÆorigineá:      m1603qa_308.inf
+Nom du fournisseurá:      ASUSTeK COMPUTER INC.
+Nom de la classeá:         Firmware
+GUID de la classeá:         {f2e7dd72-6468-4e36-b6f1-6488f42c1b52}
+Version du piloteá:     05/22/2023 10.1.2.308
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+                    Attested
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem18.inf
+Nom dÆorigineá:      myasus_splendid.inf
+Nom du fournisseurá:      ASUSTeK COMPUTER INC.
+Nom de la classeá:         Extension
+GUID de la classeá:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ID dÆextensioná:       {54057be9-f362-4b6d-82d4-37ebfc5fa078}
+Version du piloteá:     02/16/2022 3.0.0.184
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem14.inf
+Nom dÆorigineá:      smbusamd.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     03/26/2024 5.12.0.44
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem50.inf
+Nom dÆorigineá:      sntusb64.inf
+Nom du fournisseurá:      SafeNet, Inc.
+Nom de la classeá:         USB
+GUID de la classeá:         {36fc9e60-c465-11cf-8056-444553540000}
+Version du piloteá:     07/24/2017 7.6.0.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Legacy
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem24.inf
+Nom dÆorigineá:      vmci.inf
+Nom du fournisseurá:      Broadcom Inc.
+Nom de la classeá:         System
+GUID de la classeá:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     05/06/2026 9.8.32.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem6.inf
+Nom dÆorigineá:      vmusb.inf
+Nom du fournisseurá:      Broadcom Inc.
+Nom de la classeá:         USB
+GUID de la classeá:         {36fc9e60-c465-11cf-8056-444553540000}
+Version du piloteá:     07/09/2026 4.3.3.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem31.inf
+Nom dÆorigineá:      amdacpafd.inf
+Nom du fournisseurá:      AMD
+Nom de la classeá:         MEDIA
+GUID de la classeá:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     04/16/2024 6.0.0.44
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem51.inf
+Nom dÆorigineá:      amdfdans.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     12/12/2022 1.0.2310.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem25.inf
+Nom dÆorigineá:      amdocl.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     07/15/2024 31.0.21916.1002
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem42.inf
+Nom dÆorigineá:      amdwin-u0405562.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     07/15/2024 31.0.21916.1002
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem23.inf
+Nom dÆorigineá:      atihdwt6.inf
+Nom du fournisseurá:      Advanced Micro Devices
+Nom de la classeá:         MEDIA
+GUID de la classeá:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     05/06/2024 10.0.1.30
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem49.inf
+Nom dÆorigineá:      dtsapo4x64.inf
+Nom du fournisseurá:      DTS
+Nom de la classeá:         AudioProcessingObject
+GUID de la classeá:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Version du piloteá:     10/14/2022 1.10.22.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem21.inf
+Nom dÆorigineá:      dtsapo4xservice.inf
+Nom du fournisseurá:      DTS
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     10/11/2022 1.10.21.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem13.inf
+Nom dÆorigineá:      dtsaudioprocessinghsa.inf
+Nom du fournisseurá:      DTS
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     08/12/2022 1.10.3.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem41.inf
+Nom dÆorigineá:      fsbrldsp.inf
+Nom du fournisseurá:      Freedom Scientific BLV Group, LLC
+Nom de la classeá:         Freedom USB
+GUID de la classeá:         {72d7106a-ee4d-44d8-bd70-869c070c702c}
+Version du piloteá:     02/22/2022 5.4.6.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+                    Attested
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem27.inf
+Nom dÆorigineá:      fsusbcam.inf
+Nom du fournisseurá:      Freedom Scientific
+Nom de la classeá:         Freedom Scientific Video
+GUID de la classeá:         {c828c579-4964-4409-bb1b-4b98b631aa60}
+Version du piloteá:     07/29/2015 13.0.2.101
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Legacy
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem19.inf
+Nom dÆorigineá:      hdxacpasus.inf
+Nom du fournisseurá:      Realtek Semiconductor Corp.
+Nom de la classeá:         MEDIA
+GUID de la classeá:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     10/31/2023 6.0.9597.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem4.inf
+Nom dÆorigineá:      mtkbtfilter.inf
+Nom du fournisseurá:      Mediatek Inc.
+Nom de la classeá:         Bluetooth
+GUID de la classeá:         {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Version du piloteá:     03/25/2025 1.3.17.167
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem32.inf
+Nom dÆorigineá:      mtkbtfilter.inf
+Nom du fournisseurá:      Mediatek Inc.
+Nom de la classeá:         Bluetooth
+GUID de la classeá:         {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Version du piloteá:     06/19/2025 1.1043.2.545
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem44.inf
+Nom dÆorigineá:      mtkwl6ex.inf
+Nom du fournisseurá:      MediaTek, Inc.
+Nom de la classeá:         Net
+GUID de la classeá:         {4d36e972-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     06/30/2025 3.4.2.1304
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem20.inf
+Nom dÆorigineá:      mtkwl6ex.inf
+Nom du fournisseurá:      MediaTek, Inc.
+Nom de la classeá:         Net
+GUID de la classeá:         {4d36e972-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     03/19/2025 3.0.1.1335
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem10.inf
+Nom dÆorigineá:      netadapter.inf
+Nom du fournisseurá:      Broadcom Inc.
+Nom de la classeá:         Net
+GUID de la classeá:         {4d36e972-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     06/29/2026 26.5.0.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Legacy
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem7.inf
+Nom dÆorigineá:      netbridge.inf
+Nom du fournisseurá:      Broadcom Inc.
+Nom de la classeá:         NetService
+GUID de la classeá:         {4d36e974-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     06/29/2026 26.5.0.1
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Legacy
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem15.inf
+Nom dÆorigineá:      netrtwlane601.inf
+Nom du fournisseurá:      Realtek Semiconductor Corp.
+Nom de la classeá:         Net
+GUID de la classeá:         {4d36e972-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     08/15/2025 6001.15.160.100
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem46.inf
+Nom dÆorigineá:      ovwrap2.inf
+Nom du fournisseurá:      Realtek
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     10/03/2023 11.0.6000.37
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem45.inf
+Nom dÆorigineá:      prnms006.inf
+Nom du fournisseurá:      Microsoft
+Nom de la classeá:         Printer
+GUID de la classeá:         {4d36e979-e325-11ce-bfc1-08002be10318}
+Version de la classeá:      4.0
+Version du piloteá:     11/29/2016 16.0.7629.4000
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem55.inf
+Nom dÆorigineá:      prnms009.inf
+Nom du fournisseurá:      Microsoft
+Nom de la classeá:         Printer
+GUID de la classeá:         {4d36e979-e325-11ce-bfc1-08002be10318}
+Version de la classeá:      4.0
+Version du piloteá:     06/21/2006 10.0.26100.4484
+Nom du signataireá:        Microsoft Windows
+Attributsá:         Legacy
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem8.inf
+Nom dÆorigineá:      realtekasio.inf
+Nom du fournisseurá:      Realtek
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     04/13/2023 1.0.0.10
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem54.inf
+Nom dÆorigineá:      realtekhsa.inf
+Nom du fournisseurá:      Realtek
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     10/31/2023 11.0.6000.312
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem9.inf
+Nom dÆorigineá:      realtekservice.inf
+Nom du fournisseurá:      Realtek
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     10/31/2023 1.0.664.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem5.inf
+Nom dÆorigineá:      realtekuapo2.inf
+Nom du fournisseurá:      Realtek
+Nom de la classeá:         AudioProcessingObject
+GUID de la classeá:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Version du piloteá:     10/31/2023 13.241.1124.208
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem16.inf
+Nom dÆorigineá:      rtasus.inf
+Nom du fournisseurá:      Realtek
+Nom de la classeá:         Camera
+GUID de la classeá:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Version du piloteá:     04/11/2023 10.0.22000.20276
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem43.inf
+Nom dÆorigineá:      rtkbtfilter.inf
+Nom du fournisseurá:      Realtek Semiconductor Corp.
+Nom de la classeá:         Bluetooth
+GUID de la classeá:         {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Version du piloteá:     07/02/2025 18.4028.2506.2301
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem40.inf
+Nom dÆorigineá:      u0405562.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         Display
+GUID de la classeá:         {4d36e968-e325-11ce-bfc1-08002be10318}
+Version du piloteá:     07/15/2024 31.0.21916.1002
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem1.inf
+Nom dÆorigineá:      uwppair.inf
+Nom du fournisseurá:      Advanced Micro Devices, Inc.
+Nom de la classeá:         SoftwareComponent
+GUID de la classeá:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Version du piloteá:     06/30/2023 31.2319.0.0
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Declarative
+Version WHCPá:       Inconnu
+
+Nom publiÚá:     oem3.inf
+Nom dÆorigineá:      voiceclarityep_audio_component.inf
+Nom du fournisseurá:      Microsoft Corporation
+Nom de la classeá:         AudioProcessingObject
+GUID de la classeá:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Version du piloteá:     06/16/2026 1.0.4.7057
+Nom du signataireá:        Microsoft Windows Hardware Compatibility Publisher
+Attributsá:         Universal
+Version WHCPá:       Inconnu
+

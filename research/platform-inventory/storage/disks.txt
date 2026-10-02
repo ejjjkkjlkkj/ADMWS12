@@ -1,0 +1,45 @@
+
+DiskNumber            : 0
+PartitionStyle        : GPT
+ProvisioningType      : Fixed
+OperationalStatus     : Online
+HealthStatus          : Healthy
+BusType               : NVMe
+UniqueIdFormat        : SCSI Name String
+OfflineReason         : 
+ObjectId              : {1}\\DESKTOP-7DJUUFJ\root/Microsoft/Windows/Storage/Providers_v2\WSP_Disk.ObjectId="{3084facb-a2e8-11f1-9ec8-806e6f6e6963}:DI:\\?\scsi#disk&ven_nvme&prod_intel_ssdpeknu01#5&5cdf491&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}"
+PassThroughClass      : 
+PassThroughIds        : 
+PassThroughNamespace  : 
+PassThroughServer     : 
+UniqueId              : eui.0000000001000000E4D25CE339535501
+AdapterSerialNumber   : PHKA2162015M1P0B    _0001
+AllocatedSize         : 1024207446016
+BootFromDisk          : True
+FirmwareVersion       : 002C    
+FriendlyName          : INTEL SSDPEKNU010TZ
+Guid                  : {d6194da3-d0d8-4045-bb66-a3b35672443c}
+IsBoot                : True
+IsClustered           : False
+IsHighlyAvailable     : False
+IsOffline             : False
+IsReadOnly            : False
+IsScaleOut            : False
+IsSystem              : True
+LargestFreeExtent     : 2097152
+Location              : Integrated : Bus 2 : Device 0 : Function 0 : Adapter 0
+LogicalSectorSize     : 512
+Manufacturer          : 
+Model                 : INTEL SSDPEKNU010TZ
+Number                : 0
+NumberOfPartitions    : 5
+Path                  : \\?\scsi#disk&ven_nvme&prod_intel_ssdpeknu01#5&5cdf491&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+PhysicalSectorSize    : 4096
+SerialNumber          : 0000_0000_0100_0000_E4D2_5CE3_3953_5501.
+Signature             : 
+Size                  : 1024209543168
+PSComputerName        : 
+CimClass              : ROOT/Microsoft/Windows/Storage : MSFT_Disk
+CimInstanceProperties : {ObjectId, PassThroughClass, PassThroughIds, PassThroughNamespace…}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
