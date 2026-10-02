@@ -27,5 +27,8 @@ jobs:
       - name: Validate JSON and SFT JSONL
         run: python scripts/validate_json.py
 
+      - name: Run dataset quality gates
+        run: python scripts/dataset_quality.py data/sft/uefi_foundation.jsonl
+
       - name: Run tests
         run: python -m pytest -q
