@@ -1,0 +1,26 @@
+{
+  "id": "uefi-platform-initialization-1.10",
+  "title": "UEFI Platform Initialization Specification",
+  "version": "1.10",
+  "release_date": "2026-07",
+  "publisher": "UEFI Forum",
+  "source_type": "official_specification",
+  "canonical_page": "https://uefi.org/specifications",
+  "document_page": "https://uefi.org/node/5233",
+  "repository_policy": {
+    "raw_document": "do_not_commit",
+    "derived_notes": "allowed_only_if_independently_authored_and_appropriately_licensed",
+    "metadata": "allowed"
+  },
+  "priority_topics": [
+    "pre_efi_initialization",
+    "pei",
+    "dxe",
+    "firmware_volumes",
+    "firmware_file_system",
+    "dependency_expression",
+    "management_mode",
+    "platform_initialization"
+  ],
+  "notes": "Track PI 1.10 separately from UEFI 2.11 because the releases have different dates and scopes."
+}

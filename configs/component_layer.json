@@ -1,0 +1,15 @@
+{
+  "layer": "component",
+  "name": "ADMWS12 deterministic component layer",
+  "build_rules": {
+    "depends_on": ["zero"],
+    "external_implementation_dependency": false,
+    "external_binary_dependency": false,
+    "identity": "sha256(canonical(kind, version, atom_ids, parameters))",
+    "immutable": true,
+    "atom_id_format": "lowercase sha256",
+    "duplicate_atoms": false,
+    "provenance_required": true
+  },
+  "next_layers": ["tool", "chain", "subsystem", "system", "model"]
+}

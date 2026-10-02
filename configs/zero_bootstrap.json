@@ -1,0 +1,17 @@
+{
+  "layer": "zero",
+  "name": "ADMWS12 first-principles bootstrap",
+  "rules": {
+    "external_code_reuse": false,
+    "external_binary_reuse": false,
+    "source_copy_as_foundation": false,
+    "stdlib_only_for_primitive": true,
+    "content_addressed_atoms": true,
+    "deterministic_serialization": true,
+    "provenance_required": true
+  },
+  "atom": {
+    "schema": "admws12/atom/1",
+    "identity": "sha256(canonical(kind, version, payload))"
+  }
+}

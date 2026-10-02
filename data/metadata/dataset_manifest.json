@@ -1,0 +1,34 @@
+{
+  "dataset_id": "admws12-uefi-foundation-v1",
+  "status": "foundation",
+  "format": "jsonl",
+  "language": "fr",
+  "target": "screen-reader-friendly technical SFT",
+  "source_policy": {
+    "raw_sources_immutable": true,
+    "source_documents_not_embedded_by_default": true,
+    "require_provenance": true
+  },
+  "inputs": [
+    "data/sft/uefi_foundation.jsonl"
+  ],
+  "required_metadata": [
+    "source_id",
+    "topic",
+    "version",
+    "record_type"
+  ],
+  "quality_gates": [
+    "json_valid",
+    "jsonl_valid",
+    "required_metadata",
+    "roles_valid",
+    "non_empty_content",
+    "duplicate_detection",
+    "provenance_consistency"
+  ],
+  "splitting_policy": {
+    "enabled": false,
+    "reason": "Enable only after the corpus is large enough to make meaningful train/validation/test sets."
+  }
+}
