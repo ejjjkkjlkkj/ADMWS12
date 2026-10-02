@@ -8,7 +8,7 @@ Ce document définit les frontières initiales du projet sans imposer d'impléme
 Modèles fondamentaux, types, invariants et conventions communes.
 
 ### 2. Platform
-Abstraction matérielle et description de la plateforme.
+Abstraction matérielle et description de la plateforme. Le modèle de capacités, le modèle de démarrage et l'état de plateforme sont définis dans `docs/platform/`.
 
 ### 3. Firmware
 Interfaces de démarrage, firmware et sécurité de plateforme.
@@ -27,6 +27,15 @@ Interfaces et représentation accessibles, notamment pour les lecteurs d'écran.
 
 ### 8. Tools
 Outils de génération, analyse, validation et expérimentation.
+
+## Contrats Platform
+
+- `CAPABILITY-MODEL.md` définit les capacités observables et leurs états.
+- `BOOT-MODEL.md` définit les phases de démarrage et le contrat de handoff.
+- `PLATFORM-STATE.md` définit la machine d'état du cycle de vie de la plateforme.
+- `HAL.md` définit la frontière entre matériel, adaptateurs et cœur ADMWS12.
+
+Ces documents sont complémentaires : les capacités décrivent ce qui est disponible, le boot décrit comment le contrôle arrive au cœur, et l'état décrit le cycle de vie de la plateforme.
 
 ## Direction des dépendances
 
