@@ -5,14 +5,15 @@ from src.platform.uefi_secureboot import EFI_CERT_X509_GUID, extract_x509_certif
 
 def signature_list(cert: bytes, owner: bytes = bytes(range(16))) -> bytes:
     signature_size = 16 + len(cert)
-    list_size = 16 + signature_size
-    header = (
-        list_size.to_bytes(4, "little")
+    list_size = 28 + signature_size
+    return (
+        EFI_CERT_X509_GUID
+        + list_size.to_bytes(4, "little")
         + (0).to_bytes(4, "little")
         + signature_size.to_bytes(4, "little")
-        + EFI_CERT_X509_GUID
+        + owner
+        + cert
     )
-    return header + owner + cert
 
 
 class UefiSecureBootTests(unittest.TestCase):
@@ -22,16 +23,19 @@ class UefiSecureBootTests(unittest.TestCase):
         self.assertEqual(len(result), 1)
         self.assertEqual(result[0].variable, "db")
         self.assertEqual(result[0].der, cert)
+        self.assertEqual(result[0].owner_guid, bytes(range(16)))
         self.assertEqual(len(result[0].sha256), 64)
 
     def test_ignores_non_x509_signature(self):
-        signature = bytes.fromhex("a5" * 16) + b"hash"
-        size = 16 + len(signature)
+        signature_type = bytes.fromhex("a5" * 16)
+        signature = bytes(range(16)) + b"hash"
+        signature_size = len(signature)
+        list_size = 28 + signature_size
         data = (
-            size.to_bytes(4, "little")
+            signature_type
+            + list_size.to_bytes(4, "little")
             + (0).to_bytes(4, "little")
-            + len(signature).to_bytes(4, "little")
-            + bytes(16)
+            + signature_size.to_bytes(4, "little")
             + signature
         )
         self.assertEqual(extract_x509_certificates("dbx", data), ())
