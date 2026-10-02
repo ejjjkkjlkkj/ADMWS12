@@ -2,17 +2,17 @@
 
 ## Purpose
 
-Define the authoritative state machine for the ADMWS12 platform layer.
+Define the authoritative lifecycle and the capability sufficiency rules for the ADMWS12 platform layer.
 
 ## States
 
 - EMPTY — no platform information is trusted.
-- DISCOVERING — hardware and firmware capabilities are being discovered.
+- DISCOVERING — platform capabilities are being observed.
 - DISCOVERED — discovery completed; no runtime ownership exists yet.
-- INITIALIZING — mandatory platform resources are being initialized.
-- READY — the platform contract is valid and runtime services may start.
-- DEGRADED — runtime remains possible with one or more optional capabilities unavailable.
-- FAILED — a mandatory invariant or initialization operation failed.
+- INITIALIZING — mandatory platform resources are being validated and initialized.
+- READY — all declared mandatory capabilities are available.
+- DEGRADED — mandatory capabilities are available, but one or more declared optional capabilities are unavailable, unsupported, unknown, or failed.
+- FAILED — a mandatory capability or lifecycle invariant failed.
 - STOPPING — runtime ownership is being released.
 - STOPPED — platform resources are released.
 
@@ -31,19 +31,33 @@ DEGRADED -> READY
 DEGRADED -> STOPPING
 STOPPING -> STOPPED
 
+## Initialization contract
+
+Initialization receives two explicit sets of capability names:
+
+- mandatory: every named capability must be AVAILABLE;
+- optional: an unavailable, unsupported, unknown, or failed named capability produces DEGRADED rather than FAILED.
+
+A capability name cannot occur in both sets. Duplicate names are rejected.
+
+Missing mandatory capabilities cause FAILED and preserve a diagnostic reason. Degraded capability names are preserved in the platform context.
+
+Initialization does not discover hardware. Discovery must already have reached DISCOVERED.
+
 ## Invariants
 
 - State is owned by the platform layer.
 - Higher layers cannot force an invalid transition.
-- DEGRADED must identify which optional capabilities are unavailable or failed.
-- FAILED must preserve enough diagnostic state to identify the failed invariant or operation.
-- STOPPING must prevent new resource acquisition.
+- DEGRADED identifies the optional capabilities that are not usable.
+- FAILED preserves a diagnostic reason for the failed invariant or mandatory capability.
+- STOPPING prevents new resource acquisition.
 - STOPPED is terminal for that platform instance.
+- Discovery and initialization remain separate operations.
 
 ## Relationship with capabilities
 
-Capability discovery populates the capability model. Platform state determines whether those capabilities are sufficient for the next lifecycle phase. A capability being unavailable is not itself a platform failure when it is optional.
+Capability discovery populates the capability model. Initialization evaluates that snapshot against an explicit mandatory/optional policy. Capability state is never inferred from a device identifier.
 
-## Implementation rule
+## Current status
 
-Implement the state machine only after the capability representation and transition invariants have been specified and tested.
+Lifecycle, discovery integration, and initialization policy are implemented at the core-model level. No hardware adapter or device driver is implemented.
