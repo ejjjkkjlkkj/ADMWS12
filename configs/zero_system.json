@@ -1,0 +1,37 @@
+{
+  "system": "ADMWS12",
+  "construction": "first_principles",
+  "principle": "build_project_owned_primitives_before_external_material",
+  "layers": [
+    {"id":"00","name":"void","purpose":"empty contract and invariants"},
+    {"id":"01","name":"atom","purpose":"immutable canonical units"},
+    {"id":"02","name":"component","purpose":"validated compositions"},
+    {"id":"03","name":"tool","purpose":"project-owned executable capabilities"},
+    {"id":"04","name":"chain","purpose":"deterministic composition of tools"},
+    {"id":"05","name":"subsystem","purpose":"coherent groups of chains"},
+    {"id":"06","name":"system","purpose":"integrated runtime"},
+    {"id":"07","name":"model","purpose":"language model and learning runtime"}
+  ],
+  "domains": [
+    "language",
+    "tokenization",
+    "model_architecture",
+    "training",
+    "inference",
+    "dataset",
+    "evaluation",
+    "security",
+    "network",
+    "operating_system",
+    "firmware",
+    "hardware",
+    "accessibility",
+    "automation"
+  ],
+  "reuse_policy": {
+    "copied_implementations": false,
+    "copied_binaries": false,
+    "copied_models_as_project_foundation": false,
+    "external_material_as_reference_only": true
+  }
+}
