@@ -37,7 +37,7 @@ def validate_jsonl(path: Path) -> list[str]:
 
 
 def main() -> int:
-    roots = [Path("data/metadata")]
+    roots = [Path("data/metadata"), Path("data/sft")]
     errors: list[str] = []
 
     for root in roots:
