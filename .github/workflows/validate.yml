@@ -1,0 +1,28 @@
+name: Validate ADMWS12
+
+on:
+  push:
+    branches: ["main", "work/**"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate Python syntax
+        run: python -m compileall -q src scripts tests
+
+      - name: Validate JSON and JSONL
+        run: python scripts/validate_json.py
+
+      - name: Run tests
+        run: python -m pytest -q
