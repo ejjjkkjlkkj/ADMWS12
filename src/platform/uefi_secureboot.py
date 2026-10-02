@@ -53,9 +53,7 @@ def read_secure_boot_variable(name: str) -> bytes:
     )
     result = subprocess.run(
         [_powershell(), "-NoProfile", "-NonInteractive", "-Command", command],
-        capture_output=True,
-        text=True,
-        check=False,
+        capture_output=True, text=True, check=False
     )
     if result.returncode != 0:
         detail = (result.stderr or result.stdout).strip()
@@ -70,29 +68,33 @@ def read_secure_boot_variable(name: str) -> bytes:
         ) from exc
 
 
-def extract_x509_certificates(variable: str, data: bytes) -> tuple[SecureBootCertificate, ...]:
+def extract_x509_certificates(
+    variable: str, data: bytes
+) -> tuple[SecureBootCertificate, ...]:
     """Extract X.509 DER certificates from EFI_SIGNATURE_LIST data."""
     found: list[SecureBootCertificate] = []
     offset = 0
     total = len(data)
 
-    while offset + 16 <= total:
-        list_size = int.from_bytes(data[offset:offset + 4], "little")
-        header_size = int.from_bytes(data[offset + 4:offset + 8], "little")
-        signature_size = int.from_bytes(data[offset + 8:offset + 12], "little")
+    while offset + 28 <= total:
+        signature_type = data[offset:offset + 16]
+        list_size = int.from_bytes(data[offset + 16:offset + 20], "little")
+        header_size = int.from_bytes(data[offset + 20:offset + 24], "little")
+        signature_size = int.from_bytes(data[offset + 24:offset + 28], "little")
 
         if list_size < 28 or signature_size < 16:
             break
 
         end = offset + list_size
-        signatures_start = offset + 16 + header_size
+        signatures_start = offset + 28 + header_size
         if end > total or signatures_start > end:
             break
 
-        cursor = signatures_start
-        while cursor + signature_size <= end:
-            signature = data[cursor:cursor + signature_size]
-            if signature[:16] == EFI_CERT_X509_GUID:
+        if signature_type == EFI_CERT_X509_GUID:
+            cursor = signatures_start
+            while cursor + signature_size <= end:
+                signature = data[cursor:cursor + signature_size]
+                owner_guid = signature[:16]
                 der = signature[16:]
                 if der:
                     found.append(
@@ -100,10 +102,10 @@ def extract_x509_certificates(variable: str, data: bytes) -> tuple[SecureBootCer
                             variable=variable,
                             der=der,
                             sha256=hashlib.sha256(der).hexdigest(),
-                            owner_guid=signature[16 - 16:16],
+                            owner_guid=owner_guid,
                         )
                     )
-            cursor += signature_size
+                cursor += signature_size
 
         offset = end
 
