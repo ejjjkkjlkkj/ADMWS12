@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Validate JSON metadata and JSONL dataset files used by ADMWS12."""
+"""Validate ADMWS12 JSON metadata and SFT JSONL files."""
 
 from __future__ import annotations
 
 import json
-import sys
 from pathlib import Path
+
+REQUIRED_SFT_METADATA = {"source_id", "topic", "version", "record_type"}
+ALLOWED_ROLES = {"user", "assistant"}
 
 
 def validate_json(path: Path) -> list[str]:
@@ -31,16 +33,41 @@ def validate_jsonl(path: Path) -> list[str]:
         except json.JSONDecodeError as exc:
             errors.append(f"{path}:{number}: {exc}")
             continue
+
         if not isinstance(value, dict):
             errors.append(f"{path}:{number}: record must be a JSON object")
+            continue
+
+        messages = value.get("messages")
+        metadata = value.get("metadata")
+        if not isinstance(messages, list) or not messages:
+            errors.append(f"{path}:{number}: messages must be a non-empty list")
+        else:
+            for index, message in enumerate(messages, start=1):
+                if not isinstance(message, dict):
+                    errors.append(f"{path}:{number}: message {index} must be an object")
+                    continue
+                if message.get("role") not in ALLOWED_ROLES:
+                    errors.append(f"{path}:{number}: invalid role in message {index}")
+                if not isinstance(message.get("content"), str) or not message["content"].strip():
+                    errors.append(f"{path}:{number}: empty content in message {index}")
+
+        if not isinstance(metadata, dict):
+            errors.append(f"{path}:{number}: metadata must be an object")
+        else:
+            missing = REQUIRED_SFT_METADATA - metadata.keys()
+            if missing:
+                errors.append(
+                    f"{path}:{number}: missing metadata: {', '.join(sorted(missing))}"
+                )
+
     return errors
 
 
 def main() -> int:
-    roots = [Path("data/metadata"), Path("data/sft")]
     errors: list[str] = []
 
-    for root in roots:
+    for root in (Path("data/metadata"), Path("data/sft")):
         if not root.exists():
             continue
         for path in sorted(root.rglob("*")):
@@ -53,7 +80,7 @@ def main() -> int:
         print("\n".join(errors))
         return 1
 
-    print("ADMWS12 metadata validation: OK")
+    print("ADMWS12 metadata/SFT validation: OK")
     return 0
 
 
