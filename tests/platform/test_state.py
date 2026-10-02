@@ -27,7 +27,7 @@ class PlatformStateTests(unittest.TestCase):
     def test_terminal_states_are_terminal(self):
         for state in (PlatformState.FAILED, PlatformState.STOPPED):
             for target in PlatformState:
-                self.assertFalse(can_transition(state, target)
+                self.assertFalse(can_transition(state, target))
 
 
 if __name__ == "__main__":
