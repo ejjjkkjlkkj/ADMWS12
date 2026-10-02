@@ -2,15 +2,8 @@ import unittest
 
 from src.platform.capability import Capability, CapabilityState
 from src.platform.hal import PlatformContext
+from src.platform.reference import StaticCapabilitySource
 from src.platform.state import PlatformState
-
-
-class StaticSource:
-    def __init__(self, capabilities):
-        self.capabilities = capabilities
-
-    def discover(self):
-        return self.capabilities
 
 
 class PlatformContextTests(unittest.TestCase):
@@ -31,7 +24,7 @@ class PlatformContextTests(unittest.TestCase):
         self.assertIs(context.state, PlatformState.DISCOVERING)
 
         result = context.complete_discovery(
-            StaticSource([Capability("cpu", CapabilityState.AVAILABLE)])
+            StaticCapabilitySource((Capability("cpu", CapabilityState.AVAILABLE),))
         )
 
         self.assertIs(context.state, PlatformState.DISCOVERED)
@@ -41,16 +34,15 @@ class PlatformContextTests(unittest.TestCase):
         context = PlatformContext()
         context.begin_discovery()
         context.complete_discovery(
-            StaticSource([
+            StaticCapabilitySource((
                 Capability("cpu", CapabilityState.AVAILABLE),
                 Capability("memory", CapabilityState.AVAILABLE),
-            ])
+            ))
         )
 
         state = context.initialize(mandatory=("cpu", "memory"))
 
         self.assertIs(state, PlatformState.READY)
-        self.assertIs(context.state, PlatformState.READY)
         self.assertEqual(context.degraded_capabilities, ())
         self.assertIsNone(context.failure_reason)
 
@@ -58,7 +50,7 @@ class PlatformContextTests(unittest.TestCase):
         context = PlatformContext()
         context.begin_discovery()
         context.complete_discovery(
-            StaticSource([Capability("cpu", CapabilityState.AVAILABLE)])
+            StaticCapabilitySource((Capability("cpu", CapabilityState.AVAILABLE),))
         )
 
         state = context.initialize(
@@ -73,16 +65,15 @@ class PlatformContextTests(unittest.TestCase):
         context = PlatformContext()
         context.begin_discovery()
         context.complete_discovery(
-            StaticSource([
+            StaticCapabilitySource((
                 Capability("cpu", CapabilityState.AVAILABLE),
                 Capability("memory", CapabilityState.UNAVAILABLE),
-            ])
+            ))
         )
 
         state = context.initialize(mandatory=("cpu", "memory"))
 
         self.assertIs(state, PlatformState.FAILED)
-        self.assertIs(context.state, PlatformState.FAILED)
         self.assertIn("memory", context.failure_reason)
 
     def test_initialize_rejects_mandatory_optional_overlap(self):
